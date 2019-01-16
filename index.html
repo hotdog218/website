@@ -16,7 +16,6 @@
   <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
   <!-- CSS Files -->
   <link href="./assets/css/blk-design-system.css?v=1.0.0" rel="stylesheet" />
-  <!-- CSS Just for demo purpose, don't include it in your project -->
   <link href="./assets/demo/demo.css" rel="stylesheet" />
 </head>
 
@@ -53,7 +52,7 @@
               </div>
             </nav>
             <!-- End Navbar Info -->
-            
+            <!-- Stop looking at my shitty code you judgemental prick -->
 
           <br><img src="assets/img/Minecraft2.png" alt="Minecraft Logo" style="width:500px">
           <!--<img src="assets/img/Dickbutt.png" alt="Dickbutt" style="width:500px">-->
@@ -64,17 +63,76 @@
               <a href="https://www.feed-the-beast.com/"><button class="btn"><font size="+2">FTB Launcher</font></button></a>
             </div>
           
-          <h1 class="category"><font size="+3">Twitch Launcher</font></h1>
+          
+          <!--<h4><font size="+3">Stoneblock</font></h4> -->
+            <script src="https://mcapi.us/scripts/minecraft.js">
+    <div class="server-status">
+      My awesome server is currently <span class="server-online"></span>!
+    </div>
+    <script>
+      MinecraftAPI.getServerStatus('bounce.saturnusmedia.net', {
+        port: 25590 // optional, only if you need a custom port
+      }, function (err, status) {
+        if (err) {
+          return document.querySelector('.server-status').innerHTML = 'Error loading status';
+        }
+
+        document.querySelector('.server-online').innerHTML = status.online ? 'up' : 'down';
+      });
+    </script>
+         
+          <div class="col-md-12"><h1 class="category"><font size="+3">Twitch Launcher</font></h1>
           <img src="https://mcapi.us/server/image?ip=bounce.saturnusmedia.net&port=25532&theme=dark&title=StoneBlock v1.0.23" alt="Stoneblock Server">
           <img src="https://mcapi.us/server/image?ip=bounce.saturnusmedia.net&port=25568&theme=dark&title=SevTech v3.0.8" alt="Sevtech Server">
           <img src="https://mcapi.us/server/image?ip=bounce.saturnusmedia.net&port=25563&theme=dark&title=Sky Factory v2.5.6" alt="Sky Factory Server">
           
           <h1 class="category"><font size="+3">AT Launcher</font></h1>
-          <img src="https://mcapi.us/server/image?ip=bounce.saturnusmedia.net&port=25565&theme=dark&title=Yogscast Complete v2.9.3.4" alt="Voltz Server">
+          <img src="https://mcapi.us/server/image?ip=bounce.saturnusmedia.net&port=25565&theme=dark&title=Yogscast Complete v2.9.3.4" alt="Yogscast Complete Server">
           
           <h1 class="category"><font size="+3">Technic Launcher</font></h1>
-          <img src="https://mcapi.us/server/image?ip=bounce.saturnusmedia.net&port=25570&theme=dark&title=Voltz v2.0.4" alt="Voltz Server">
+          <img src="https://mcapi.us/server/image?ip=bounce.saturnusmedia.net&port=25570&theme=dark&title=Voltz v2.0.4" alt="Voltz Server"></div>
+          
+          <img src="assets/img/gmod_logo_but_actually_fixed.png" alt="Garrys Mod Logo" style="width:450px">
+          <h4>Click on a server to launch Garry's Mod and connect.</h4>
+          
           <div class="row">
+            
+    </div>
+
+  </div>
+  <!--   Core JS Files   -->
+  <script src="./assets/js/core/jquery.min.js" type="text/javascript"></script>
+  <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
+  <script src="./assets/js/core/bootstrap.min.js" type="text/javascript"></script>
+  <script src="./assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
+  <!--  Plugin for Switches, full documentation here: http://www.jque.re/plugins/version3/bootstrap.switch/ -->
+  <script src="./assets/js/plugins/bootstrap-switch.js"></script>
+  <!--  Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
+  <script src="./assets/js/plugins/nouislider.min.js" type="text/javascript"></script>
+  <!-- Chart JS -->
+  <script src="./assets/js/plugins/chartjs.min.js"></script>
+  <!--  Plugin for the DatePicker, full documentation here: https://github.com/uxsolutions/bootstrap-datepicker -->
+  <script src="./assets/js/plugins/moment.min.js"></script>
+  <script src="./assets/js/plugins/bootstrap-datetimepicker.js" type="text/javascript"></script>
+  <!-- Black Dashboard DEMO methods, don't include it in your project! -->
+  <script src="./assets/demo/demo.js"></script>
+  <!-- Control Center for Black UI Kit: parallax effects, scripts for the example pages etc -->
+  <script src="./assets/js/blk-design-system.min.js?v=1.0.0" type="text/javascript"></script>
+  <script>
+    $(document).ready(function() {
+      blackKit.initDatePicker();
+      blackKit.initSliders();
+    });
+
+    function scrollToDownload() {
+
+      if ($('.section-download').length != 0) {
+        $("html, body").animate({
+          scrollTop: $('.section-download').offset().top
+        }, 1000);
+      }
+    }
+  </script>
 </body>
 
 </html>
