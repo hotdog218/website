@@ -1,19 +1,23 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553654089583">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553655182375">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4209040404" ref="index"/>
+    <file name="index.css" crc="3868978257" ref="index"/>
+    <file name="game-server.css" crc="4193191577" ref="game-server"/>
+    <file name="media-server.css" crc="4193191577" ref="media-server"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:game-server:media-server"/>
+    <file name="museutils.js" crc="163421577" ref="index:game-server:media-server"/>
+    <file name="whatinput.js" crc="86476730" ref="index:game-server:media-server"/>
+    <file name="museconfig.js" crc="168988563" ref="index:game-server:media-server"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:game-server:media-server"/>
+    <file name="require.js" crc="244322403" ref="index:game-server:media-server"/>
   </folder>
   <folder name="images">
     <file name="landingbackground.jpg" crc="78151539" ref="index"/>
   </folder>
-  <file name="index.html" crc="379403760" seo="true" mt="1553654032878" redirect="true"/>
+  <file name="index.html" crc="312240660" seo="true" mt="1553655149541" redirect="true"/>
+  <file name="game-server.html" crc="4118840470" seo="true" mt="1553655010337" redirect="false"/>
+  <file name="media-server.html" crc="374885201" seo="true" mt="1553655016727" redirect="false"/>
 </manifest>
