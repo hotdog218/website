@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553700353544">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553700698028">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1553658709000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="184249557" ref="index"/>
-    <file name="game-server.css" crc="4216970068" ref="game-server"/>
+    <file name="game-server.css" crc="139999319" ref="game-server"/>
     <file name="media-server.css" crc="4193191577" ref="media-server"/>
   </folder>
   <folder name="scripts">
@@ -19,7 +19,7 @@
   </folder>
   <folder name="images">
     <file name="landingbackground.jpg" crc="3927159341" ref="index:game-server"/>
-    <file name="minecraft-1-logo-png-transparent-crop-u195.png" crc="3892556988" ref="game-server"/>
+    <file name="minecraft-1-logo-png-transparent-crop-u195.png" crc="4173658339" ref="game-server"/>
     <file name="1200px-gmodlogosvg.png" crc="4127812475" seo="true" ref="game-server"/>
     <file name="i3rpf6dy7jvy.png" crc="400003888" seo="true" ref="game-server"/>
     <file name="rust-icon.png" crc="345594112" seo="true" ref="game-server"/>
@@ -29,6 +29,6 @@
     <file name="chivalry-lg.png" crc="282725546" seo="true" ref="game-server"/>
   </folder>
   <file name="index.html" crc="150120767" seo="true" mt="1553657347603" redirect="true"/>
-  <file name="game-server.html" crc="17329496" seo="true" mt="1553700168043" redirect="true"/>
+  <file name="game-server.html" crc="52765797" seo="true" mt="1553700669447" redirect="true"/>
   <file name="media-server.html" crc="374885201" seo="true" mt="1553655016727" redirect="false"/>
 </manifest>
