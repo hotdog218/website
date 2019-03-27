@@ -11,18 +11,46 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "game-server.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "game-server.css"], "outOfDate":[]};
 </script>
   
   <title>Game Server</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/game-server.css?crc=4193191577" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/game-server.css?crc=212330540" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   var __adobewebfontsappname__ = "muse";
+</script>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/orbitron:n7:default.js" type="text/javascript">\x3C/script>');
+</script>
    </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
-   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="0" data-content-below-spacer="500"></div>
+   <div class="browser_width" id="u186-bw">
+    <div class="museBGSize pinned-colelem" id="u186"><!-- simple frame --></div>
+   </div>
+   <div class="clearfix colelem" id="u189-4"><!-- content -->
+    <p>Game Servers</p>
+   </div>
+   <div class="clearfix colelem" id="pu195"><!-- group -->
+    <div class="clip_frame grpelem" id="u195"><!-- image -->
+     <img class="block" id="u195_img" src="images/minecraft-1-logo-png-transparent-crop-u195.png?crc=3892556988" alt="" data-image-width="131" data-image-height="131"/>
+    </div>
+    <div class="clip_frame grpelem" id="u205"><!-- image -->
+     <img class="block" id="u205_img" src="images/1200px-gmodlogosvg.png?crc=4127812475" alt="" data-image-width="131" data-image-height="131"/>
+    </div>
+    <div class="clip_frame grpelem" id="u215"><!-- image -->
+     <img class="block" id="u215_img" src="images/i3rpf6dy7jvy.png?crc=400003888" alt="" data-image-width="131" data-image-height="131"/>
+    </div>
+    <div class="clip_frame grpelem" id="u225"><!-- image -->
+     <img class="block" id="u225_img" src="images/59c317315fdd6-bpfull.png?crc=3807454340" alt="" data-image-width="131" data-image-height="131"/>
+    </div>
+   </div>
+   <div class="verticalspacer" data-offset-top="484" data-content-above-spacer="484" data-content-below-spacer="596"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -30,7 +58,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */

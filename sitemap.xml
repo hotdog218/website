@@ -18,4 +18,22 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/59c317315fdd6-bpfull.png</loc>
+    <lastmod>2019-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/i3rpf6dy7jvy.png</loc>
+    <lastmod>2019-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/1200px-gmodlogosvg.png</loc>
+    <lastmod>2019-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
