@@ -17,10 +17,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Game Server</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/game-server.css?crc=393157324" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/game-server.css?crc=6429787" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_game-server.css?crc=69856045"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_game-server.css?crc=97533777"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -28,7 +28,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/orbitron:n7,n3:default;electrolize:n4:default.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/electrolize:n4:default;orbitron:n7,n3:default.js" type="text/javascript">\x3C/script>');
 </script>
    </head>
  <body>
@@ -77,32 +77,55 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <p>Space Engineers</p>
     </div>
    </div>
-   <div class="clearfix colelem" id="pu289"><!-- group -->
-    <div class="clip_frame grpelem" id="u289"><!-- image -->
-     <img class="block" id="u289_img" src="images/favicon-8.png?crc=519699840" alt="" data-image-width="131" data-image-height="131"/>
+   <div class="clearfix colelem" id="ppu289"><!-- group -->
+    <div class="clearfix grpelem" id="pu289"><!-- column -->
+     <div class="clip_frame colelem" id="u289"><!-- image -->
+      <img class="block" id="u289_img" src="images/favicon-8.png?crc=519699840" alt="" data-image-width="131" data-image-height="131"/>
+     </div>
+     <div class="clearfix colelem" id="u299-4"><!-- content -->
+      <p>Don't Starve Together</p>
+     </div>
+    </div>
+    <div class="clearfix grpelem" id="pu348"><!-- column -->
+     <div class="clip_frame colelem" id="u348"><!-- image -->
+      <img class="block" id="u348_img" src="images/chivalry-lg.png?crc=282725546" alt="" data-image-width="131" data-image-height="131"/>
+     </div>
+     <div class="clearfix colelem" id="u358-4"><!-- content -->
+      <p>Chivalry</p>
+     </div>
     </div>
     <div class="clip_frame grpelem" id="u302"><!-- image -->
      <img class="block" id="u302_img" src="images/kisspng-dayz-arma-2-killing-floor-2-counter-strike-global-dayz-5b22013b48b6849090846615289551952978.png?crc=3763195303" alt="" data-image-width="131" data-image-height="131"/>
     </div>
-    <div class="clip_frame grpelem" id="u315"><!-- image -->
-     <img class="block" id="u315_img" src="images/mpforesticon.png?crc=497256361" alt="" data-image-width="131" data-image-height="131"/>
-    </div>
-    <div class="clip_frame grpelem" id="u348"><!-- image -->
-     <img class="block" id="u348_img" src="images/chivalry-lg.png?crc=282725546" alt="" data-image-width="131" data-image-height="131"/>
-    </div>
-   </div>
-   <div class="clearfix colelem" id="pu299-4"><!-- group -->
-    <div class="clearfix grpelem" id="u299-4"><!-- content -->
-     <p>Don't Starve Together</p>
-    </div>
     <div class="clearfix grpelem" id="u312-4"><!-- content -->
      <p>Arma 2: OA</p>
+    </div>
+    <div class="clip_frame grpelem" id="u315"><!-- image -->
+     <img class="block" id="u315_img" src="images/mpforesticon.png?crc=497256361" alt="" data-image-width="131" data-image-height="131"/>
     </div>
     <div class="clearfix grpelem" id="u325-4"><!-- content -->
      <p>The Forest</p>
     </div>
-    <div class="clearfix grpelem" id="u358-4"><!-- content -->
-     <p>Chivalry</p>
+    <div class="grpelem" id="u387"><!-- custom html -->
+     <script>
+
+var ms = require('../scripts/minestat');
+ms.init('s.nerd.nu', 25565, function(result)
+{
+  console.log("Minecraft server status of " + ms.address + " on port " + ms.port + ":");
+  if(ms.online)
+  {
+    console.log("Server is online running version " + ms.version + " with " + ms.current_players + " out of " + ms.max_players + " players.");
+    console.log("Message of the day: " + ms.motd);
+    console.log("Latency: " + ms.latency + "ms");
+  }
+  else
+  {
+    console.log("Server is offline!");
+  }
+});
+
+</script>
     </div>
    </div>
    <div class="clearfix colelem" id="ppu367-12"><!-- group -->
@@ -116,7 +139,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="grpelem" id="u377"><!-- custom html -->
       <script src="https://mcapi.us/scripts/minecraft.js"></script>
   <div class="server-status">
-    <span style="color: burlywood; font-size: 18pt"><span class="server-online"></span></span>
+    <span style="color: burlywood; font-size: 16pt"><span class="server-online"></span></span>
   </div>
   <script>
     MinecraftAPI.getServerStatus('bounce.saturnusmedia.net', {
