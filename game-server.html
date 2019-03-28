@@ -17,14 +17,18 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Game Server</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/game-server.css?crc=139999319" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/game-server.css?crc=4109248518" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_game-server.css?crc=4278307325"/>
+  <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/electrolize:n4:default;orbitron:n7:default.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/electrolize:n4:default;orbitron:n7,n3:default.js" type="text/javascript">\x3C/script>');
 </script>
    </head>
  <body>
@@ -33,11 +37,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <div class="browser_width" id="u186-bw">
     <div class="museBGSize pinned-colelem" id="u186"><!-- simple frame --></div>
    </div>
-   <div class="clearfix colelem" id="u189-4"><!-- content -->
-    <p>Game Servers</p>
-   </div>
+   <img class="colelem" id="u189-4" alt="Game Servers" src="images/u189-4.png?crc=442796303" data-image-width="755"/><!-- rasterized frame -->
    <div class="clearfix colelem" id="pu195"><!-- group -->
-    <a class="nonblock nontext anim_swing clip_frame grpelem" id="u195" href="game-server.html#minecraft_anchor"><!-- image --><img class="block" id="u195_img" src="images/minecraft-1-logo-png-transparent-crop-u195.png?crc=3892556988" alt="" data-image-width="131" data-image-height="131"/></a>
+    <a class="nonblock nontext anim_swing clip_frame grpelem" id="u195" href="game-server.html#minecraft_anchor"><!-- image --><img class="block" id="u195_img" src="images/minecraft-1-logo-png-transparent-crop-u195.png?crc=4173658339" alt="" data-image-width="131" data-image-height="131"/></a>
     <div class="clip_frame grpelem" id="u205"><!-- image -->
      <img class="block" id="u205_img" src="images/1200px-gmodlogosvg.png?crc=4127812475" alt="" data-image-width="131" data-image-height="131"/>
     </div>
@@ -101,18 +103,47 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <p>Chivalry</p>
     </div>
    </div>
-   <div class="browser_width colelem" id="u374-bw">
-    <div id="u374"><!-- group -->
-     <div class="clearfix" id="u374_align_to_page">
-      <a class="anchor_item grpelem" id="minecraft_anchor"></a>
-      <div class="clearfix grpelem" id="u367-13"><!-- content -->
-       <p><span id="u367">Minecraft</span></p>
-       <p id="u367-4"><span id="u367-3">Technic Launcher</span></p>
-       <p id="u367-10"><span id="u367-5">1.7.10 Pack v0.9.6:</span><span id="u367-6"> </span><span id="u367-7">bounce.saturnusmedia.net:25566</span><span id="u367-8"> - </span><span id="u367-9">Offline</span></p>
-       <p>&nbsp;</p>
-      </div>
+   <div class="clearfix colelem" id="ppu367-13"><!-- group -->
+    <div class="clearfix grpelem" id="pu367-13"><!-- group -->
+     <div class="clearfix grpelem" id="u367-13"><!-- content -->
+      <p><span id="u367">Minecraft</span></p>
+      <p id="u367-4"><span id="u367-3">Technic Launcher</span></p>
+      <p id="u367-10"><span id="u367-5">1.7.10 Pack v0.9.6:</span><span id="u367-6"> </span><span id="u367-7">bounce.saturnusmedia.net:25566</span><span id="u367-8"> - </span><span id="u367-9">Offline</span></p>
+      <p>&nbsp;</p>
+     </div>
+     <div class="grpelem" id="u377"><!-- custom html -->
+      <script src="https://mcapi.us/scripts/minecraft.js"></script>
+    <style>
+         @font-face{
+         font-family: "Orbitron-Bold";
+         src:url("fonts/Orbitron-Bold");
+       }
+       harlow{
+       font-family:"Orbitron-Bold";
+     }
+      </style>
+    <div class="server-status">
+           <b class="harlow"><span class="server-online"></span></b>
+    </div>
+    <script>
+      MinecraftAPI.getServerStatus('bounce.saturnusmedia.net', {
+        port: 25566 // optional, only if you need a custom port
+      }, function (err, status) {
+        if (err) {
+          return document.querySelector('.server-status').innerHTML = 'Error loading status';
+        }
+
+        // you can change these to your own message!
+        document.querySelector('.server-online').innerHTML = status.online ? 'Online' : 'Offline';
+      });
+    </script>
+
      </div>
     </div>
+    <div class="browser_width grpelem" id="u374-bw">
+     <div id="u374"><!-- simple frame --></div>
+    </div>
+    <a class="anchor_item grpelem" id="minecraft_anchor"></a>
    </div>
    <div class="verticalspacer" data-offset-top="3526" data-content-above-spacer="3526" data-content-below-spacer="107"></div>
   </div>
