@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553737630251">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553738548875">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1553658709000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="184249557" ref="index"/>
-    <file name="game-server.css" crc="4104738875" ref="game-server"/>
+    <file name="game-server.css" crc="3970402710" ref="game-server"/>
     <file name="media-server.css" crc="4193191577" ref="media-server"/>
-    <file name="iefonts_game-server.css" crc="275591220" ref="game-server"/>
+    <file name="iefonts_game-server.css" crc="69856045" ref="game-server"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:game-server:media-server"/>
@@ -30,6 +30,6 @@
     <file name="chivalry-lg.png" crc="282725546" seo="true" ref="game-server"/>
   </folder>
   <file name="index.html" crc="150120767" seo="true" mt="1553657347603" redirect="true"/>
-  <file name="game-server.html" crc="245472444" seo="true" mt="1553737551987" redirect="true"/>
+  <file name="game-server.html" crc="4209077634" seo="true" mt="1553738540282" redirect="true"/>
   <file name="media-server.html" crc="374885201" seo="true" mt="1553655016727" redirect="false"/>
 </manifest>
