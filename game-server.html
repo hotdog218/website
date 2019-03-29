@@ -17,7 +17,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Game Server</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/game-server.css?crc=4121095686" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/game-server.css?crc=353247266" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_game-server.css?crc=4029317803"/>
@@ -147,10 +147,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 
   <div class="clearfix borderbox" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
+    <a class="anchor_item colelem" id="top"></a>
     <div class="browser_width" id="u186-bw">
      <div class="museBGSize pinned-colelem" id="u186"><!-- simple frame --></div>
     </div>
-    <a class="anchor_item colelem" id="top"></a>
     <a class="nonblock nontext clip_frame colelem" id="u415" href="index.html"><!-- image --><img class="block" id="u415_img" src="images/whitebackbutton.png?crc=4221700727" alt="" data-image-width="40" data-image-height="40"/></a>
     <div class="clearfix colelem" id="u189-4"><!-- content -->
      <p>Game Servers</p>
@@ -222,10 +222,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p>Chivalry</p>
      </div>
     </div>
-    <a class="nonblock nontext anim_swing clip_frame colelem" id="u529" href="game-server.html#top" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=-1,M21=1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="0" data-mu-ie-matrix-dy="0"><!-- image --><img class="block" id="u529_img" src="images/whitebackbutton.png?crc=4221700727" alt="" data-image-width="40" data-image-height="40"/></a>
-    <div class="clearfix colelem" id="pu387"><!-- group -->
-     <div class="grpelem" id="u387"><!-- custom html -->
-      <script>
+    <div class="colelem" id="u387"><!-- custom html -->
+     <script>
 
 var ms = require('../scripts/minestat');
 ms.init('s.nerd.nu', 25565, function(result)
@@ -244,9 +242,15 @@ ms.init('s.nerd.nu', 25565, function(result)
 });
 
 </script>
+    </div>
+    <div class="clearfix colelem" id="pu529"><!-- group -->
+     <div id="u529-wrapper">
+      <a class="nonblock nontext anim_swing clip_frame" id="u529" href="game-server.html#top" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=-1,M21=1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="0" data-mu-ie-matrix-dy="0"><!-- image --><img class="block" id="u529_img" src="images/whitebackbutton.png?crc=4221700727" alt="" data-image-width="40" data-image-height="40"/></a>
      </div>
-     <div class="clearfix grpelem" id="u539-4"><!-- content -->
-      <p>To Top</p>
+     <div id="u539-4-wrapper">
+      <div class="clearfix" id="u539-4"><!-- content -->
+       <p>To Top</p>
+      </div>
      </div>
     </div>
     <div class="clearfix colelem" id="ppu367-12"><!-- group -->
@@ -282,7 +286,7 @@ ms.init('s.nerd.nu', 25565, function(result)
      </div>
      <a class="anchor_item grpelem" id="minecraft_anchor"></a>
     </div>
-    <div class="verticalspacer" data-offset-top="3526" data-content-above-spacer="3526" data-content-below-spacer="107"></div>
+    <div class="verticalspacer" data-offset-top="3553" data-content-above-spacer="3553" data-content-below-spacer="0"></div>
    </div>
   </div>
   <!-- JS includes -->
