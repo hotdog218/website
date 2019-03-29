@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553821751997">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553822503497">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1553658709000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="184249557" ref="index"/>
-    <file name="game-server.css" crc="42339448" ref="game-server"/>
+    <file name="game-server.css" crc="4228919931" ref="game-server"/>
     <file name="media-server.css" crc="4193191577" ref="media-server"/>
     <file name="iefonts_game-server.css" crc="69856045" ref="game-server"/>
   </folder>
@@ -28,8 +28,9 @@
     <file name="kisspng-dayz-arma-2-killing-floor-2-counter-strike-global-dayz-5b22013b48b6849090846615289551952978.png" crc="3763195303" seo="true" ref="game-server"/>
     <file name="mpforesticon.png" crc="497256361" seo="true" ref="game-server"/>
     <file name="chivalry-lg.png" crc="282725546" seo="true" ref="game-server"/>
+    <file name="whitebackbutton.png" crc="4221700727" seo="true" ref="game-server"/>
   </folder>
   <file name="index.html" crc="150120767" seo="true" mt="1553657347603" redirect="true"/>
-  <file name="game-server.html" crc="3999499330" seo="true" mt="1553821738056" redirect="true"/>
+  <file name="game-server.html" crc="268947423" seo="true" mt="1553822467168" redirect="true"/>
   <file name="media-server.html" crc="374885201" seo="true" mt="1553655016727" redirect="false"/>
 </manifest>
