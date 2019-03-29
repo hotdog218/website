@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553826338414">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553826631870">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1553658709000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3878284862" ref="index"/>
+    <file name="index.css" crc="228217124" ref="index"/>
     <file name="game-server.css" crc="4276378995" ref="game-server"/>
     <file name="media-server.css" crc="4193191577" ref="media-server"/>
     <file name="iefonts_game-server.css" crc="4029317803" ref="game-server"/>
@@ -30,7 +30,7 @@
     <file name="chivalry-lg.png" crc="282725546" seo="true" ref="game-server"/>
     <file name="whitebackbutton.png" crc="4221700727" seo="true" ref="game-server"/>
   </folder>
-  <file name="index.html" crc="4182875685" seo="true" mt="1553824880711" redirect="true"/>
+  <file name="index.html" crc="3801460264" seo="true" mt="1553826599996" redirect="true"/>
   <file name="game-server.html" crc="4278882696" seo="true" mt="1553826279329" redirect="true"/>
   <file name="media-server.html" crc="374885201" seo="true" mt="1553824880711" redirect="false"/>
 </manifest>
