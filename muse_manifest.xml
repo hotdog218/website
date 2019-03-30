@@ -1,26 +1,25 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553826631870">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553982833380">
   <folder name="assets">
-    <file name="favicon.ico" crc="46024320" seo="true" mt="1553658709000"/>
+    <file name="favicon.ico" crc="46024320" seo="true" mt="1554002340000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="228217124" ref="index"/>
-    <file name="game-server.css" crc="4276378995" ref="game-server"/>
-    <file name="media-server.css" crc="4193191577" ref="media-server"/>
-    <file name="iefonts_game-server.css" crc="4029317803" ref="game-server"/>
+    <file name="index.css" crc="3806198480" ref="index"/>
+    <file name="game-server.css" crc="3893811449" ref="game-server"/>
+    <file name="media-server.css" crc="3789709726" ref="media-server"/>
+    <file name="iefonts_game-server.css" crc="3929872137" ref="game-server"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:game-server:media-server"/>
     <file name="museutils.js" crc="163421577" ref="index:game-server:media-server"/>
     <file name="whatinput.js" crc="86476730" ref="index:game-server:media-server"/>
     <file name="museconfig.js" crc="168988563" ref="index:game-server:media-server"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:game-server"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:game-server:media-server"/>
     <file name="jquery.watch.js" crc="104486786" ref="index:game-server:media-server"/>
     <file name="require.js" crc="244322403" ref="index:game-server:media-server"/>
   </folder>
   <folder name="images">
-    <file name="landingbackground.jpg" crc="3927159341" ref="index:game-server"/>
-    <file name="minecraft-1-logo-png-transparent-crop-u195.png" crc="3892556988" ref="game-server"/>
+    <file name="landingbackground.jpg" crc="3922696546" ref="index:game-server:media-server"/>
     <file name="1200px-gmodlogosvg.png" crc="4127812475" seo="true" ref="game-server"/>
     <file name="i3rpf6dy7jvy.png" crc="400003888" seo="true" ref="game-server"/>
     <file name="rust-icon.png" crc="345594112" seo="true" ref="game-server"/>
@@ -29,8 +28,9 @@
     <file name="mpforesticon.png" crc="497256361" seo="true" ref="game-server"/>
     <file name="chivalry-lg.png" crc="282725546" seo="true" ref="game-server"/>
     <file name="whitebackbutton.png" crc="4221700727" seo="true" ref="game-server"/>
+    <file name="minecraft-1-logo-png-transparent.png" crc="521462129" seo="true" ref="game-server"/>
   </folder>
-  <file name="index.html" crc="3801460264" seo="true" mt="1553826599996" redirect="true"/>
-  <file name="game-server.html" crc="4278882696" seo="true" mt="1553826279329" redirect="true"/>
-  <file name="media-server.html" crc="374885201" seo="true" mt="1553824880711" redirect="false"/>
+  <file name="index.html" crc="4099650501" seo="true" mt="1553982753407" redirect="true"/>
+  <file name="game-server.html" crc="511723024" seo="true" mt="1553982466049" redirect="true"/>
+  <file name="media-server.html" crc="4251510428" seo="true" mt="1553982538450" redirect="false"/>
 </manifest>
