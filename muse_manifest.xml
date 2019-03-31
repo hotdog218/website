@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1553983401706">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554013048579">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554002340000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
+    <file name="site_global.css" crc="4115740025"/>
     <file name="index.css" crc="3806198480" ref="index"/>
-    <file name="game-server.css" crc="4030906572" ref="game-server"/>
-    <file name="media-server.css" crc="3789709726" ref="media-server"/>
-    <file name="iefonts_game-server.css" crc="4121893813" ref="game-server"/>
+    <file name="game-server.css" crc="4263512752" ref="game-server"/>
+    <file name="media-server.css" crc="4218063765" ref="media-server"/>
+    <file name="iefonts_game-server.css" crc="4003911706" ref="game-server"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:game-server:media-server"/>
@@ -27,10 +27,10 @@
     <file name="kisspng-dayz-arma-2-killing-floor-2-counter-strike-global-dayz-5b22013b48b6849090846615289551952978.png" crc="3763195303" seo="true" ref="game-server"/>
     <file name="mpforesticon.png" crc="497256361" seo="true" ref="game-server"/>
     <file name="chivalry-lg.png" crc="282725546" seo="true" ref="game-server"/>
-    <file name="whitebackbutton.png" crc="4221700727" seo="true" ref="game-server"/>
+    <file name="whitebackbutton.png" crc="4221700727" seo="true" ref="game-server:media-server"/>
     <file name="minecraft-1-logo-png-transparent.png" crc="521462129" seo="true" ref="game-server"/>
   </folder>
-  <file name="index.html" crc="4099650501" seo="true" mt="1553982753407" redirect="true"/>
-  <file name="game-server.html" crc="3926216491" seo="true" mt="1553983379300" redirect="true"/>
-  <file name="media-server.html" crc="4251510428" seo="true" mt="1553982538450" redirect="false"/>
+  <file name="index.html" crc="4014101041" seo="true" mt="1554011610116" redirect="true"/>
+  <file name="game-server.html" crc="3992088623" seo="true" mt="1554012760247" redirect="true"/>
+  <file name="media-server.html" crc="86587955" seo="true" mt="1554013017689" redirect="true"/>
 </manifest>
