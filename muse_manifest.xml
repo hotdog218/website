@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554013048579">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554014396836">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554002340000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4115740025"/>
     <file name="index.css" crc="3806198480" ref="index"/>
-    <file name="game-server.css" crc="4263512752" ref="game-server"/>
+    <file name="game-server.css" crc="322194853" ref="game-server"/>
     <file name="media-server.css" crc="4218063765" ref="media-server"/>
-    <file name="iefonts_game-server.css" crc="4003911706" ref="game-server"/>
+    <file name="iefonts_game-server.css" crc="4006477015" ref="game-server"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:game-server:media-server"/>
@@ -29,8 +29,9 @@
     <file name="chivalry-lg.png" crc="282725546" seo="true" ref="game-server"/>
     <file name="whitebackbutton.png" crc="4221700727" seo="true" ref="game-server:media-server"/>
     <file name="minecraft-1-logo-png-transparent.png" crc="521462129" seo="true" ref="game-server"/>
+    <file name="download-icon-61870.png" crc="249256181" seo="true" ref="game-server"/>
   </folder>
   <file name="index.html" crc="4014101041" seo="true" mt="1554011610116" redirect="true"/>
-  <file name="game-server.html" crc="3992088623" seo="true" mt="1554012760247" redirect="true"/>
+  <file name="game-server.html" crc="147836401" seo="true" mt="1554014294790" redirect="true"/>
   <file name="media-server.html" crc="86587955" seo="true" mt="1554013017689" redirect="true"/>
 </manifest>
