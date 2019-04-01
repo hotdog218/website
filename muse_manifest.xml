@@ -1,26 +1,29 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554077687444">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554157377844">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="156195782"/>
-    <file name="index.css" crc="4135120982" ref="index"/>
-    <file name="game-server.css" crc="4050778239" ref="game-server"/>
-    <file name="media-server.css" crc="271252783" ref="media-server"/>
-    <file name="installation-help.css" crc="4167180045" ref="installation-help"/>
+    <file name="index.css" crc="489827743" ref="index"/>
+    <file name="game-server.css" crc="3987234817" ref="game-server"/>
+    <file name="media-server.css" crc="265140281" ref="media-server"/>
+    <file name="installation-help.css" crc="4098474581" ref="installation-help"/>
     <file name="reypack.css" crc="132947109" ref="reypack"/>
+    <file name="game-server-specs.css" crc="433555588" ref="game-server-specs"/>
+    <file name="media-server-specs.css" crc="415654616" ref="media-server-specs"/>
+    <file name="iefonts_media-server-specs.css" crc="110659264" ref="media-server-specs"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:game-server:media-server:reypack:installation-help"/>
-    <file name="museutils.js" crc="163421577" ref="index:game-server:media-server:reypack:installation-help"/>
-    <file name="whatinput.js" crc="86476730" ref="index:game-server:media-server:reypack:installation-help"/>
-    <file name="museconfig.js" crc="168988563" ref="index:game-server:media-server:reypack:installation-help"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:game-server:media-server:installation-help"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:game-server:media-server:reypack:installation-help"/>
-    <file name="require.js" crc="244322403" ref="index:game-server:media-server:reypack:installation-help"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:game-server:media-server:reypack:installation-help:media-server-specs:game-server-specs"/>
+    <file name="museutils.js" crc="163421577" ref="index:game-server:media-server:reypack:installation-help:media-server-specs:game-server-specs"/>
+    <file name="whatinput.js" crc="86476730" ref="index:game-server:media-server:reypack:installation-help:media-server-specs:game-server-specs"/>
+    <file name="museconfig.js" crc="168988563" ref="index:game-server:media-server:reypack:installation-help:media-server-specs:game-server-specs"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:game-server:media-server:installation-help:media-server-specs:game-server-specs"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:game-server:media-server:reypack:installation-help:media-server-specs:game-server-specs"/>
+    <file name="require.js" crc="244322403" ref="index:game-server:media-server:reypack:installation-help:media-server-specs:game-server-specs"/>
   </folder>
   <folder name="images">
-    <file name="landingbackground.jpg" crc="3776884278" ref="index:game-server:media-server:installation-help"/>
+    <file name="landingbackground.jpg" crc="3776884278" ref="index:game-server:media-server:installation-help:media-server-specs:game-server-specs"/>
     <file name="1200px-gmodlogosvg.png" crc="4127812475" seo="true" ref="game-server"/>
     <file name="i3rpf6dy7jvy.png" crc="400003888" seo="true" ref="game-server"/>
     <file name="rust-icon.png" crc="345594112" seo="true" ref="game-server"/>
@@ -32,10 +35,19 @@
     <file name="minecraft-1-logo-png-transparent.png" crc="521462129" seo="true" ref="game-server"/>
     <file name="download-icon-61870.png" crc="249256181" seo="true" ref="game-server"/>
     <file name="specs.png" crc="200382299" seo="true" ref="index"/>
+    <file name="technic-launcher-logo-png-transparent.png" crc="79639830" seo="true" ref="installation-help"/>
+    <file name="twitch-logo-4931d91f85-seeklogocom-crop-u3049.png" crc="4222261884" ref="installation-help"/>
+    <file name="dd9brg9j_400x400.png" crc="36286064" seo="true" ref="installation-help"/>
+    <file name="be3e2913de564941984d0cd5a227a14b.jpg" crc="4244602209" seo="true" ref="installation-help"/>
+    <file name="7074ebc3df214ec32280be549426c35c.jpg" crc="3960742912" seo="true" ref="installation-help"/>
+    <file name="shutterstock_242436673.png" crc="209991455" seo="true" ref="game-server"/>
+    <file name="technic p2.jpg" crc="4105585970" seo="true" ref="installation-help"/>
   </folder>
-  <file name="index.html" crc="4048874744" seo="true" mt="1554073515520" redirect="true"/>
-  <file name="game-server.html" crc="347324410" seo="true" mt="1554077628397" redirect="true"/>
-  <file name="media-server.html" crc="4086621358" seo="true" mt="1554073517503" redirect="true"/>
+  <file name="index.html" crc="369777026" seo="true" mt="1554154812673" redirect="true"/>
+  <file name="game-server.html" crc="4184976722" seo="true" mt="1554157291013" redirect="true"/>
+  <file name="media-server.html" crc="147164562" seo="true" mt="1554154683948" redirect="true"/>
   <file name="reypack.html" crc="4198776078" seo="true" mt="1554074966441" redirect="true"/>
-  <file name="installation-help.html" crc="4118201520" seo="true" mt="1554075751992" redirect="true"/>
+  <file name="installation-help.html" crc="226021313" seo="true" mt="1554157348657" redirect="true"/>
+  <file name="media-server-specs.html" crc="4078352801" seo="true" mt="1554156841436" redirect="true"/>
+  <file name="game-server-specs.html" crc="128974549" seo="true" mt="1554156910762" redirect="true"/>
 </manifest>
