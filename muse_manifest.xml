@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554076413449">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554077687444">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="156195782"/>
     <file name="index.css" crc="4135120982" ref="index"/>
-    <file name="game-server.css" crc="4230862253" ref="game-server"/>
+    <file name="game-server.css" crc="4050778239" ref="game-server"/>
     <file name="media-server.css" crc="271252783" ref="media-server"/>
     <file name="installation-help.css" crc="4167180045" ref="installation-help"/>
     <file name="reypack.css" crc="132947109" ref="reypack"/>
@@ -34,7 +34,7 @@
     <file name="specs.png" crc="200382299" seo="true" ref="index"/>
   </folder>
   <file name="index.html" crc="4048874744" seo="true" mt="1554073515520" redirect="true"/>
-  <file name="game-server.html" crc="3805485731" seo="true" mt="1554076386489" redirect="true"/>
+  <file name="game-server.html" crc="347324410" seo="true" mt="1554077628397" redirect="true"/>
   <file name="media-server.html" crc="4086621358" seo="true" mt="1554073517503" redirect="true"/>
   <file name="reypack.html" crc="4198776078" seo="true" mt="1554074966441" redirect="true"/>
   <file name="installation-help.html" crc="4118201520" seo="true" mt="1554075751992" redirect="true"/>
