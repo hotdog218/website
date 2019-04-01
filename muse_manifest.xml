@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554157377844">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554157855926">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
   </folder>
@@ -7,7 +7,7 @@
     <file name="index.css" crc="489827743" ref="index"/>
     <file name="game-server.css" crc="3987234817" ref="game-server"/>
     <file name="media-server.css" crc="265140281" ref="media-server"/>
-    <file name="installation-help.css" crc="4098474581" ref="installation-help"/>
+    <file name="installation-help.css" crc="473630917" ref="installation-help"/>
     <file name="reypack.css" crc="132947109" ref="reypack"/>
     <file name="game-server-specs.css" crc="433555588" ref="game-server-specs"/>
     <file name="media-server-specs.css" crc="415654616" ref="media-server-specs"/>
@@ -31,7 +31,7 @@
     <file name="kisspng-dayz-arma-2-killing-floor-2-counter-strike-global-dayz-5b22013b48b6849090846615289551952978.png" crc="3763195303" seo="true" ref="game-server"/>
     <file name="mpforesticon.png" crc="497256361" seo="true" ref="game-server"/>
     <file name="chivalry-lg.png" crc="282725546" seo="true" ref="game-server"/>
-    <file name="whitebackbutton.png" crc="4221700727" seo="true" ref="game-server:media-server"/>
+    <file name="whitebackbutton.png" crc="4221700727" seo="true" ref="game-server:media-server:installation-help"/>
     <file name="minecraft-1-logo-png-transparent.png" crc="521462129" seo="true" ref="game-server"/>
     <file name="download-icon-61870.png" crc="249256181" seo="true" ref="game-server"/>
     <file name="specs.png" crc="200382299" seo="true" ref="index"/>
@@ -47,7 +47,7 @@
   <file name="game-server.html" crc="4184976722" seo="true" mt="1554157291013" redirect="true"/>
   <file name="media-server.html" crc="147164562" seo="true" mt="1554154683948" redirect="true"/>
   <file name="reypack.html" crc="4198776078" seo="true" mt="1554074966441" redirect="true"/>
-  <file name="installation-help.html" crc="226021313" seo="true" mt="1554157348657" redirect="true"/>
+  <file name="installation-help.html" crc="414213716" seo="true" mt="1554157847437" redirect="true"/>
   <file name="media-server-specs.html" crc="4078352801" seo="true" mt="1554156841436" redirect="true"/>
   <file name="game-server-specs.html" crc="128974549" seo="true" mt="1554156910762" redirect="true"/>
 </manifest>
