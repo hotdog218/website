@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554164865817">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554244502208">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="156195782"/>
-    <file name="index.css" crc="439554681" ref="index"/>
+    <file name="index.css" crc="3956506180" ref="index"/>
     <file name="game-server.css" crc="3987234817" ref="game-server"/>
     <file name="media-server.css" crc="265140281" ref="media-server"/>
     <file name="installation-help.css" crc="473630917" ref="installation-help"/>
@@ -43,7 +43,7 @@
     <file name="shutterstock_242436673.png" crc="209991455" seo="true" ref="game-server"/>
     <file name="technic p2.jpg" crc="4105585970" seo="true" ref="installation-help"/>
   </folder>
-  <file name="index.html" crc="3869294739" seo="true" mt="1554164717492" redirect="true"/>
+  <file name="index.html" crc="112795321" seo="true" mt="1554244486023" redirect="true"/>
   <file name="game-server.html" crc="4184976722" seo="true" mt="1554157291013" redirect="true"/>
   <file name="media-server.html" crc="147164562" seo="true" mt="1554154683948" redirect="true"/>
   <file name="reypack.html" crc="4198776078" seo="true" mt="1554074966441" redirect="true"/>
