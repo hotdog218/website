@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://saturnusmedia.net/index.html</loc>
-    <lastmod>2019-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/game-server-specs.html</loc>
-    <lastmod>2019-04-01</lastmod>
+    <lastmod>2019-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://saturnusmedia.net/rules.html</loc>
     <lastmod>2019-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/game-servers.html</loc>
+    <lastmod>2019-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/game-server-specs.html</loc>
+    <lastmod>2019-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -39,12 +45,6 @@
   <url>
     <loc>http://saturnusmedia.net/media-server.html</loc>
     <lastmod>2019-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/game-server.html</loc>
-    <lastmod>2019-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
