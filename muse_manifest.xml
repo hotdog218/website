@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554334095942">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554335252539">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
   </folder>
@@ -12,7 +12,7 @@
     <file name="media-server-specs.css" crc="4237085780" ref="media-server-specs"/>
     <file name="iefonts_media-server-specs.css" crc="110659264" ref="media-server-specs"/>
     <file name="rules.css" crc="3871748139" ref="rules"/>
-    <file name="game-servers.css" crc="4292681848" ref="game-servers"/>
+    <file name="game-servers.css" crc="6338667" ref="game-servers"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:game-servers"/>
@@ -53,5 +53,5 @@
   <file name="media-server-specs.html" crc="4154899101" seo="true" mt="1554164834364" redirect="true"/>
   <file name="game-server-specs.html" crc="128974549" seo="true" mt="1554156910762" redirect="true"/>
   <file name="rules.html" crc="180700928" seo="true" mt="1554327444028" redirect="true"/>
-  <file name="game-servers.html" crc="299141545" seo="true" mt="1554334070786" redirect="true"/>
+  <file name="game-servers.html" crc="3869858900" seo="true" mt="1554335124571" redirect="true"/>
 </manifest>
