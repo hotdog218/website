@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Electrolize';
+  src: url('fonts/Electrolize-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/Electrolize-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fonts/Electrolize-Regular.ttf')  format('truetype');
+}
+
+#status_label {
+    font-family: 'Electrolize', Fallback, sans-serif;
+}
+
+#status_label.status-info {
+    color: black
+}
+
+#status_label.status-success {
+    color: green
+}
+
+#status_label.status-error {
+    color: red
+}

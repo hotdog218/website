@@ -1,18 +1,20 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554335252539">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554402035995">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
+    <file name="main.js" crc="151732583" seo="true" mt="1554354342000"/>
+    <file name="style.css" crc="3956320551" seo="true" mt="1554354459000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="156195782"/>
-    <file name="index.css" crc="4183979152" ref="index"/>
+    <file name="site_global.css" crc="251057638"/>
+    <file name="index.css" crc="484102064" ref="index"/>
     <file name="media-server.css" crc="265140281" ref="media-server"/>
     <file name="installation-help.css" crc="4069511428" ref="installation-help"/>
     <file name="reypack.css" crc="132947109" ref="reypack"/>
     <file name="game-server-specs.css" crc="433555588" ref="game-server-specs"/>
     <file name="media-server-specs.css" crc="4237085780" ref="media-server-specs"/>
     <file name="iefonts_media-server-specs.css" crc="110659264" ref="media-server-specs"/>
-    <file name="rules.css" crc="3871748139" ref="rules"/>
-    <file name="game-servers.css" crc="6338667" ref="game-servers"/>
+    <file name="rules.css" crc="4238139" ref="rules"/>
+    <file name="game-servers.css" crc="4130981195" ref="game-servers"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:game-servers"/>
@@ -25,7 +27,7 @@
   </folder>
   <folder name="images">
     <file name="landingbackground.jpg" crc="3776884278" ref="index:media-server:installation-help:media-server-specs:game-server-specs:rules:game-servers"/>
-    <file name="1200px-gmodlogosvg.png" crc="4127812475" seo="true" ref="rules:game-servers"/>
+    <file name="1200px-gmodlogosvg.png" crc="4127812475" seo="true" ref="game-servers"/>
     <file name="i3rpf6dy7jvy.png" crc="400003888" seo="true" ref="game-servers"/>
     <file name="rust-icon.png" crc="345594112" seo="true" ref="game-servers"/>
     <file name="favicon-8.png" crc="519699840" seo="true" ref="game-servers"/>
@@ -44,14 +46,24 @@
     <file name="shutterstock_242436673.png" crc="4031975840" seo="true" ref="game-servers"/>
     <file name="technic p2.jpg" crc="4105585970" seo="true" ref="installation-help"/>
     <file name="clipboard.png" crc="63158985" seo="true" ref="game-servers"/>
-    <file name="tts-horizontal-logoloho-crop-u4075.png" crc="6265289" ref="rules"/>
+    <file name="267-2679919_garrys-mod-garrys-mod-logo-pngsadsa.png" crc="4269797536" seo="true" ref="rules"/>
+    <file name="customlogo.png" crc="4197080539" seo="true" ref="rules"/>
+    <file name="prop hunt logo.png" crc="3829091209" seo="true" ref="rules"/>
+    <file name="mudergmod.png" crc="4033832633" seo="true" ref="rules"/>
+    <file name="wikitt22.png" crc="418158567" seo="true" ref="rules"/>
+    <file name="2c48755938d4e51ca8f76ced8b3912af.png" crc="4135081795" seo="true" ref="rules"/>
+    <file name="catanlogo.gif" crc="3864488148" seo="true" ref="rules"/>
+    <file name="risk-logo.png" crc="3966560990" seo="true" ref="rules"/>
+    <file name="1280px-uno_logosvg.png" crc="4123130307" seo="true" ref="rules"/>
+    <file name="texas-holdem-logo.png" crc="296362003" seo="true" ref="rules"/>
+    <file name="1200px-secret_hitlersvg.png" crc="3799249578" seo="true" ref="rules"/>
   </folder>
-  <file name="index.html" crc="371400009" seo="true" mt="1554326614595" redirect="true"/>
+  <file name="index.html" crc="4201882705" seo="true" mt="1554401903499" redirect="true"/>
   <file name="media-server.html" crc="288312364" seo="true" mt="1554245091751" redirect="true"/>
   <file name="reypack.html" crc="4198776078" seo="true" mt="1554074966441" redirect="true"/>
   <file name="installation-help.html" crc="245457289" seo="true" mt="1554327732263" redirect="true"/>
   <file name="media-server-specs.html" crc="4154899101" seo="true" mt="1554164834364" redirect="true"/>
   <file name="game-server-specs.html" crc="128974549" seo="true" mt="1554156910762" redirect="true"/>
-  <file name="rules.html" crc="180700928" seo="true" mt="1554327444028" redirect="true"/>
-  <file name="game-servers.html" crc="3869858900" seo="true" mt="1554335124571" redirect="true"/>
+  <file name="rules.html" crc="30673660" seo="true" mt="1554351627998" redirect="true"/>
+  <file name="game-servers.html" crc="3809471782" seo="true" mt="1554343133595" redirect="true"/>
 </manifest>

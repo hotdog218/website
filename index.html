@@ -16,8 +16,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>Home</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=156195782"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4183979152" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=251057638"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=484102064" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -34,17 +34,60 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix colelem" id="u116-4"><!-- content -->
      <p>Saturnus Media</p>
     </div>
-    <div class="clearfix colelem" id="ppu3809-4"><!-- group -->
-     <div class="clearfix grpelem" id="pu3809-4"><!-- column -->
-      <div class="clearfix colelem" id="u3809-4"><!-- content -->
-       <p>uptime status coming soon</p>
-      </div>
-      <div class="pointer_cursor Button rounded-corners clearfix colelem" id="buttonu121"><!-- container box -->
-       <a class="block" href="media-server.html"><!-- Block link tag --></a>
-       <a class="nonblock nontext clearfix grpelem" id="u123-4" href="media-server.html"><!-- content --><p>Media Server</p></a>
-      </div>
+    <div class="colelem" id="u4565"><!-- custom html -->
+     <script>
+
+var qs = require("querystring");
+var http = require("https");
+ 
+var options = {
+  "method": "POST",
+  "hostname": "api.uptimerobot.com",
+  "port": null,
+  "path": "/v2/getMonitors",
+  "headers": {
+    "content-type": "application/x-www-form-urlencoded",
+    "cache-control": "no-cache"
+  }
+};
+ 
+var req = http.request(options, function (res) {
+  var chunks = [];
+ 
+  res.on("data", function (chunk) {
+    chunks.push(chunk);
+  });
+ 
+  res.on("end", function () {
+    var body = Buffer.concat(chunks);
+    console.log(body.toString());
+  });
+});
+ 
+req.write(qs.stringify({ api_key: 'm780451419-a8b1ef60c03405c3c6863fc3', format: 'json', logs: '1' }));
+req.end();
+
+</script>
+    </div>
+    <div class="clearfix colelem" id="pu3809-4"><!-- group -->
+     <div class="clearfix grpelem" id="u3809-4"><!-- content -->
+      <p>uptime status coming soon</p>
      </div>
-     <div class="grpelem" id="u3866"><!-- simple frame --></div>
+     <div class="grpelem" id="u4893"><!-- custom html -->
+        <head>
+    <title>Server Status</title>
+	<link rel="stylesheet" type="text/css" href="assets/style.css">
+  </head>
+  <body>
+    <h2 id="status_label"></h2>
+	<script src="assets/main.js"></script>
+  </body>
+
+     </div>
+    </div>
+    <div class="pointer_cursor Button rounded-corners clearfix colelem" id="buttonu121"><!-- container box -->
+     <a class="block" href="media-server.html"><!-- Block link tag --></a>
+     <a class="nonblock nontext clearfix grpelem" id="u123-4" href="media-server.html"><!-- content --><p>Media Server</p></a>
     </div>
     <a class="nonblock nontext clip_frame colelem" id="u2579" href="media-server-specs.html"><!-- image --><img class="block" id="u2579_img" src="images/specs.png?crc=200382299" alt="" data-image-width="131" data-image-height="131"/></a>
     <div class="clearfix colelem" id="u2601-4"><!-- content -->
@@ -63,7 +106,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
    </div>
    <a class="nonblock nontext grpelem" id="u1185" href="https://www.youtube.com/watch?v=93ijhstE7Xk"><!-- simple frame --></a>
-   <div class="clearfix grpelem" id="pu3812-4"><!-- column -->
+   <div class="clearfix grpelem" id="pu3866"><!-- column -->
+    <div class="colelem" id="u3866"><!-- simple frame --></div>
     <div class="clearfix colelem" id="u3812-4"><!-- content -->
      <p>uptime status coming soon</p>
     </div>
