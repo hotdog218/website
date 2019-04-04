@@ -47,7 +47,6 @@ function checkServerStatus(callback) {
 
     xhr.responseType = 'json';
     xhr.setRequestHeader('content-type', 'application/x-www-form-urlencoded');
-    xhr.setRequestHeader('cache-control', 'no-cache');
 
     xhr.onload = function () {
         if (xhr.response) {

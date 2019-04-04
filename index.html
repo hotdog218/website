@@ -17,7 +17,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=251057638"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=484102064" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3838428065" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -26,9 +26,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <script type="text/javascript">
    document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/electrolize:n4:default;orbitron:n7:default.js" type="text/javascript">\x3C/script>');
 </script>
-    <!--custom head HTML-->
-  Access-Control-Allow-Origin: *
- </head>
+   </head>
  <body class="museBGSize">
 
   <div class="clearfix borderbox" id="page"><!-- group -->
@@ -36,47 +34,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix colelem" id="u116-4"><!-- content -->
      <p>Saturnus Media</p>
     </div>
-    <div class="colelem" id="u4565"><!-- custom html -->
-     <script>
-
-var qs = require("querystring");
-var http = require("https");
- 
-var options = {
-  "method": "POST",
-  "hostname": "api.uptimerobot.com",
-  "port": null,
-  "path": "/v2/getMonitors",
-  "headers": {
-    "content-type": "application/x-www-form-urlencoded",
-    "cache-control": "no-cache"
-  }
-};
- 
-var req = http.request(options, function (res) {
-  var chunks = [];
- 
-  res.on("data", function (chunk) {
-    chunks.push(chunk);
-  });
- 
-  res.on("end", function () {
-    var body = Buffer.concat(chunks);
-    console.log(body.toString());
-  });
-});
- 
-req.write(qs.stringify({ api_key: 'm780451419-a8b1ef60c03405c3c6863fc3', format: 'json', logs: '1' }));
-req.end();
-
-</script>
-    </div>
-    <div class="clearfix colelem" id="pu3809-4"><!-- group -->
-     <div class="clearfix grpelem" id="u3809-4"><!-- content -->
-      <p>uptime status coming soon</p>
-     </div>
-     <div class="grpelem" id="u4893"><!-- custom html -->
-        <head>
+    <div class="colelem" id="u4893"><!-- custom html -->
+       <head>
     <title>Server Status</title>
 	<link rel="stylesheet" type="text/css" href="assets/style.css">
   </head>
@@ -85,7 +44,6 @@ req.end();
 	<script src="assets/main.js"></script>
   </body>
 
-     </div>
     </div>
     <div class="pointer_cursor Button rounded-corners clearfix colelem" id="buttonu121"><!-- container box -->
      <a class="block" href="media-server.html"><!-- Block link tag --></a>

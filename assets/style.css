@@ -7,6 +7,7 @@
 
 #status_label {
     font-family: 'Electrolize', Fallback, sans-serif;
+    font-size: 24px;
 }
 
 #status_label.status-info {
@@ -14,7 +15,7 @@
 }
 
 #status_label.status-success {
-    color: green
+    color: #42ea33
 }
 
 #status_label.status-error {
