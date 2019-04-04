@@ -1,11 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554404990704">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554405428791">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
     <file name="main.js" crc="1356305" seo="true" mt="1554403519000"/>
-    <file name="style.css" crc="4111977960" seo="true" mt="1554404897000"/>
+    <file name="style.css" crc="345990195" seo="true" mt="1554405175000"/>
     <file name="electrolize-regular.ttf" crc="4118042541" seo="true" mt="1398829646000"/>
     <file name="electrolize-regular.woff" crc="3851232758" seo="true" mt="1554365862000"/>
     <file name="electrolize-regular.woff2" crc="4259292166" seo="true" mt="1554365896000"/>
+    <file name="plexserverstatus.js" crc="1356305" seo="true" mt="1554405156000"/>
+    <file name="uptimestatus.css" crc="319311318" seo="true" mt="1554405396000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="251057638"/>
@@ -61,7 +63,7 @@
     <file name="texas-holdem-logo.png" crc="296362003" seo="true" ref="rules"/>
     <file name="1200px-secret_hitlersvg.png" crc="3799249578" seo="true" ref="rules"/>
   </folder>
-  <file name="index.html" crc="3860026287" seo="true" mt="1554404951595" redirect="true"/>
+  <file name="index.html" crc="269153001" seo="true" mt="1554405256732" redirect="true"/>
   <file name="media-server.html" crc="4260482525" seo="true" mt="1554404675416" redirect="true"/>
   <file name="reypack.html" crc="4198776078" seo="true" mt="1554074966441" redirect="true"/>
   <file name="installation-help.html" crc="193646035" seo="true" mt="1554404675416" redirect="true"/>
