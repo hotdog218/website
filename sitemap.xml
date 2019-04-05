@@ -7,14 +7,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/game-servers.html</loc>
-    <lastmod>2019-04-05</lastmod>
+    <loc>http://saturnusmedia.net/rules.html</loc>
+    <lastmod>2019-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/rules.html</loc>
-    <lastmod>2019-04-04</lastmod>
+    <loc>http://saturnusmedia.net/game-servers.html</loc>
+    <lastmod>2019-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,6 +45,12 @@
   <url>
     <loc>http://saturnusmedia.net/media-server.html</loc>
     <lastmod>2019-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/gameserverstatus.js</loc>
+    <lastmod>2019-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -121,12 +127,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/images/be3e2913de564941984d0cd5a227a14b.jpg</loc>
-    <lastmod>2019-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://saturnusmedia.net/assets/mcstatus.css</loc>
     <lastmod>2019-04-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -134,6 +134,12 @@
   </url>
   <url>
     <loc>http://saturnusmedia.net/assets/1710packserverstatus.js</loc>
+    <lastmod>2019-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/shutterstock_242436673.png</loc>
     <lastmod>2019-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -247,6 +253,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://saturnusmedia.net/images/be3e2913de564941984d0cd5a227a14b.jpg</loc>
+    <lastmod>2019-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://saturnusmedia.net/assets/favicon.ico</loc>
     <lastmod>2019-03-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,12 +266,6 @@
   </url>
   <url>
     <loc>http://saturnusmedia.net/images/7074ebc3df214ec32280be549426c35c.jpg</loc>
-    <lastmod>2019-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/shutterstock_242436673.png</loc>
     <lastmod>2019-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
