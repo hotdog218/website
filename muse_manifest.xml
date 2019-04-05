@@ -1,26 +1,25 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554423529671">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554477103839">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
-    <file name="main.js" crc="1356305" seo="true" mt="1554403519000"/>
-    <file name="style.css" crc="345990195" seo="true" mt="1554405175000"/>
     <file name="electrolize-regular.ttf" crc="4118042541" seo="true" mt="1398829646000"/>
     <file name="electrolize-regular.woff" crc="3851232758" seo="true" mt="1554365862000"/>
     <file name="electrolize-regular.woff2" crc="4259292166" seo="true" mt="1554365896000"/>
-    <file name="plexserverstatus.js" crc="1356305" seo="true" mt="1554405156000"/>
+    <file name="plexserverstatus.js" crc="4098079457" seo="true" mt="1554476299000"/>
     <file name="uptimestatus.css" crc="319311318" seo="true" mt="1554405396000"/>
-    <file name="1710packstatus.js" crc="4016690265" seo="true" mt="1554411216000"/>
+    <file name="mcstatus.css" crc="79075525" seo="true" mt="1554476621000"/>
+    <file name="1710packserverstatus.js" crc="3843411984" seo="true" mt="1554476541000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="156195782"/>
-    <file name="index.css" crc="3838428065" ref="index"/>
+    <file name="index.css" crc="4243251510" ref="index"/>
     <file name="media-server.css" crc="202628673" ref="media-server"/>
     <file name="installation-help.css" crc="134350179" ref="installation-help"/>
     <file name="reypack.css" crc="132947109" ref="reypack"/>
     <file name="game-server-specs.css" crc="3979757835" ref="game-server-specs"/>
     <file name="media-server-specs.css" crc="4237085780" ref="media-server-specs"/>
     <file name="iefonts_media-server-specs.css" crc="110659264" ref="media-server-specs"/>
-    <file name="rules.css" crc="278093605" ref="rules"/>
-    <file name="game-servers.css" crc="4236663457" ref="game-servers"/>
+    <file name="rules.css" crc="49236829" ref="rules"/>
+    <file name="game-servers.css" crc="82435261" ref="game-servers"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:game-servers"/>
@@ -48,7 +47,7 @@
     <file name="dd9brg9j_400x400.png" crc="36286064" seo="true" ref="installation-help"/>
     <file name="be3e2913de564941984d0cd5a227a14b.jpg" crc="4244602209" seo="true" ref="installation-help"/>
     <file name="7074ebc3df214ec32280be549426c35c.jpg" crc="3960742912" seo="true" ref="installation-help"/>
-    <file name="shutterstock_242436673.png" crc="4031975840" seo="true" ref="game-servers"/>
+    <file name="shutterstock_242436673.png" crc="4031975840" seo="true" ref="game-servers:rules"/>
     <file name="technic p2.jpg" crc="4105585970" seo="true" ref="installation-help"/>
     <file name="clipboard.png" crc="63158985" seo="true" ref="game-servers"/>
     <file name="267-2679919_garrys-mod-garrys-mod-logo-pngsadsa.png" crc="4269797536" seo="true" ref="rules"/>
@@ -64,12 +63,12 @@
     <file name="arklogo-crop-u5504.png" crc="3797859791" ref="game-servers"/>
     <file name="001596-716x716.png" crc="4063831246" seo="true" ref="rules"/>
   </folder>
-  <file name="index.html" crc="269153001" seo="true" mt="1554405256732" redirect="true"/>
+  <file name="index.html" crc="515613317" seo="true" mt="1554476063921" redirect="true"/>
   <file name="media-server.html" crc="4260482525" seo="true" mt="1554404675416" redirect="true"/>
   <file name="reypack.html" crc="4198776078" seo="true" mt="1554074966441" redirect="true"/>
   <file name="installation-help.html" crc="193646035" seo="true" mt="1554404675416" redirect="true"/>
   <file name="media-server-specs.html" crc="3862985699" seo="true" mt="1554404675416" redirect="true"/>
   <file name="game-server-specs.html" crc="3861400862" seo="true" mt="1554404675416" redirect="true"/>
-  <file name="rules.html" crc="518690805" seo="true" mt="1554422221104" redirect="true"/>
-  <file name="game-servers.html" crc="4025079942" seo="true" mt="1554423489870" redirect="true"/>
+  <file name="rules.html" crc="4261405048" seo="true" mt="1554423906027" redirect="true"/>
+  <file name="game-servers.html" crc="439766114" seo="true" mt="1554477071927" redirect="true"/>
 </manifest>

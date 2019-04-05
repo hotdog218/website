@@ -1,7 +1,7 @@
 (function () {
 'use strict';
 
-const API_KEY = 'm780451419-a8b1ef60c03405c3c6863fc3',
+const API_KEY = 'm782349888-5fa54ff2def9486951528d80',
       API_URL = 'https://api.uptimerobot.com/v2/getMonitors',
       POLL_TIME_IN_SECONDS = 30;
 
@@ -69,7 +69,7 @@ function checkServerStatus(callback) {
 
                 switch (monStatus) {
                 case serverStatus.UP:
-                    setStatusLabel('Server is up!', statusLabelType.SUCCESS);
+                    setStatusLabel('Online', statusLabelType.SUCCESS);
                     break;
                 case serverStatus.NOT_CHECKED:
                     setStatusLabel('Server is paused.', statusLabelType.ERROR);
@@ -82,7 +82,7 @@ function checkServerStatus(callback) {
                     setStatusLabel('Server seems down.', statusLabelType.ERROR);
                     break;
                 case serverStatus.DOWN:
-                    setStatusLabel('Server is down!', statusLabelType.ERROR);
+                    setStatusLabel('Offline', statusLabelType.ERROR);
                     break;
                 default:
                     setStatusLabel('Unknown server status code: ' + monStatus);

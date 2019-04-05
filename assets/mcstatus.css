@@ -7,7 +7,8 @@
 
 #status_label {
     font-family: 'Electrolize', Fallback, sans-serif;
-    font-size: 24px;
+    font-size: 28px;
+    text-align: left;
 }
 
 #status_label.status-info {
