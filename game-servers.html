@@ -16,8 +16,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>Game Servers</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=156195782"/>
-  <link rel="stylesheet" type="text/css" href="css/game-servers.css?crc=82435261" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=251057638"/>
+  <link rel="stylesheet" type="text/css" href="css/game-servers.css?crc=4085757985" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -83,8 +83,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p>Ark: Survival Evolved</p>
      </div>
     </div>
-    <div class="clearfix colelem" id="pu262"><!-- group -->
-     <div class="grpelem" id="u262" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=-1,M21=1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-14" data-mu-ie-matrix-dy="15"><!-- simple frame --></div>
+    <div class="clearfix colelem" id="pppu262"><!-- group -->
+     <div class="clearfix grpelem" id="ppu262"><!-- column -->
+      <div class="clearfix colelem" id="pu262"><!-- group -->
+       <div class="grpelem" id="u262" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=-1,M21=1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-14" data-mu-ie-matrix-dy="15"><!-- simple frame --></div>
+       <a class="nonblock nontext clip_frame grpelem" id="u6131" href="rules.html#tabtoprules"><!-- image --><img class="block" id="u6131_img" src="images/tts-horizontal-logoloho-crop-u6131.png?crc=6265289" alt="" data-image-width="131" data-image-height="131"/></a>
+      </div>
+      <div class="clearfix colelem" id="u6141-4"><!-- content -->
+       <p>Tabletop Simulator</p>
+      </div>
+     </div>
      <div class="clearfix grpelem" id="pu4004"><!-- column -->
       <a class="nonblock nontext clip_frame colelem" id="u4004" href="rules.html"><!-- image --><img class="block" id="u4004_img" src="images/clipboard.png?crc=63158985" alt="" data-image-width="131" data-image-height="131"/></a>
       <div class="clearfix colelem" id="u4014-4"><!-- content -->
@@ -100,39 +108,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
     </div>
     <div class="colelem" id="u253" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=-1,M21=1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-14" data-mu-ie-matrix-dy="15"><!-- simple frame --></div>
-    <div class="colelem" id="u387"><!-- custom html -->
-     <script>
-
-var ms = require('../scripts/minestat');
-ms.init('s.nerd.nu', 25565, function(result)
-{
-  console.log("Minecraft server status of " + ms.address + " on port " + ms.port + ":");
-  if(ms.online)
-  {
-    console.log("Server is online running version " + ms.version + " with " + ms.current_players + " out of " + ms.max_players + " players.");
-    console.log("Message of the day: " + ms.motd);
-    console.log("Latency: " + ms.latency + "ms");
-  }
-  else
-  {
-    console.log("Server is offline!");
-  }
-});
-
-</script>
-    </div>
-    <div class="colelem" id="u2016"><!-- custom html -->
-     <script>
-$.getJSON('https://api.mcsrvstat.us/1/hivemc.com', function(status) {
-	//Show the version
-	console.log(status.version);
-
-	//Show a list of players
-	$.each(status.players.list, function(index, player){
-		console.log(player);
-	});
-});
-</script>
+    <div class="clearfix colelem" id="u6165-4"><!-- content -->
+     <p>Server Status' are updated every 60 seconds.</p>
     </div>
     <div class="clearfix colelem" id="pu4447"><!-- group -->
      <div class="clearfix grpelem" id="u4447"><!-- group -->
@@ -231,11 +208,44 @@ $.getJSON('https://api.mcsrvstat.us/1/hivemc.com', function(status) {
      <div class="grpelem" id="u5378"><!-- custom html -->
         <head>
     <title>Server Status</title>
-	<link rel="stylesheet" type="text/css" href="assets/mcstatus.css">
+	<link rel="stylesheet" type="text/css" href="assets/1710status.css">
   </head>
   <body>
-    <h2 id="status_label"></h2>
-	<script src="assets/1710packserverstatus.js"></script>
+    <h2 id="onesvnten_label"></h2>
+	<script src="assets/1710status.js"></script>
+  </body>
+
+     </div>
+     <div class="grpelem" id="u6007"><!-- custom html -->
+        <head>
+    <title>Server Status</title>
+	<link rel="stylesheet" type="text/css" href="assets/voltzstatus.css">
+  </head>
+  <body>
+    <h2 id="voltz_label"></h2>
+	<script src="assets/voltzstatus.js"></script>
+  </body>
+
+     </div>
+     <div class="grpelem" id="u6144"><!-- custom html -->
+        <head>
+    <title>Server Status</title>
+	<link rel="stylesheet" type="text/css" href="assets/stoneblockstatus.css">
+  </head>
+  <body>
+    <h2 id="stoneblockstatus_label"></h2>
+	<script src="assets/stoneblockstatus.js"></script>
+  </body>
+
+     </div>
+     <div class="grpelem" id="u6168"><!-- custom html -->
+        <head>
+    <title>Server Status</title>
+	<link rel="stylesheet" type="text/css" href="assets/skyfactorystatus.css">
+  </head>
+  <body>
+    <h2 id="skyfactorystatus_label"></h2>
+	<script src="assets/skyfactorystatus.js"></script>
   </body>
 
      </div>
@@ -394,7 +404,7 @@ $.getJSON('https://api.mcsrvstat.us/1/hivemc.com', function(status) {
      </div>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="9289" data-content-above-spacer="9289" data-content-below-spacer="62"></div>
+   <div class="verticalspacer" data-offset-top="9377" data-content-above-spacer="9377" data-content-below-spacer="62"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">

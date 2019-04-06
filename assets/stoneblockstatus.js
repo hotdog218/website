@@ -1,9 +1,9 @@
 (function () {
 'use strict';
 
-const API_KEY = 'm782356935-6ab6e65989c6f20e26241dc5',
+const API_KEY = 'm782364169-06e94ab834487c2323d2bfd7',
       API_URL = 'https://api.uptimerobot.com/v2/getMonitors',
-      POLL_TIME_IN_SECONDS = 30;
+      POLL_TIME_IN_SECONDS = 60;
 
 const statusLabelType = {
     INFO: 0,
@@ -20,7 +20,7 @@ const serverStatus = {
 };
 
 function setStatusLabel(msg, type) {
-    var statusLabel = document.getElementById('gamestatus_label');
+    var statusLabel = document.getElementById('stoneblockstatus_label');
 
     statusLabel.innerText = msg;
 
@@ -69,7 +69,7 @@ function checkServerStatus(callback) {
 
                 switch (monStatus) {
                 case serverStatus.UP:
-                    setStatusLabel('Server is up!', statusLabelType.SUCCESS);
+                    setStatusLabel('Online', statusLabelType.SUCCESS);
                     break;
                 case serverStatus.NOT_CHECKED:
                     setStatusLabel('Server is paused.', statusLabelType.ERROR);
@@ -82,7 +82,7 @@ function checkServerStatus(callback) {
                     setStatusLabel('Server seems down.', statusLabelType.ERROR);
                     break;
                 case serverStatus.DOWN:
-                    setStatusLabel('Server is down!', statusLabelType.ERROR);
+                    setStatusLabel('Offline', statusLabelType.ERROR);
                     break;
                 default:
                     setStatusLabel('Unknown server status code: ' + monStatus);
@@ -121,4 +121,3 @@ window.addEventListener('DOMContentLoaded', function (e) {
 }, false);
 
 })();
-
