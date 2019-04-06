@@ -49,18 +49,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/1710status.css</loc>
-    <lastmod>2019-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/assets/1710status.js</loc>
-    <lastmod>2019-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://saturnusmedia.net/assets/voltzstatus.css</loc>
     <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -92,6 +80,18 @@
   </url>
   <url>
     <loc>http://saturnusmedia.net/assets/skyfactorystatus.js</loc>
+    <lastmod>2019-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/plexstatus.css</loc>
+    <lastmod>2019-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/plexstatus.js</loc>
     <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -151,13 +151,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/gameserverstatus.js</loc>
+    <loc>http://saturnusmedia.net/assets/1710status.css</loc>
     <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/uptimestatusgamesvr.css</loc>
+    <loc>http://saturnusmedia.net/assets/1710status.js</loc>
     <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -271,13 +271,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/uptimestatus.css</loc>
-    <lastmod>2019-04-04</lastmod>
+    <loc>http://saturnusmedia.net/assets/uptimestatusgamesvr.css</loc>
+    <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/plexserverstatus.js</loc>
+    <loc>http://saturnusmedia.net/assets/gameserverstatus.js</loc>
     <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

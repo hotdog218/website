@@ -5,20 +5,20 @@
        url('assets/Electrolize-Regular.ttf')  format('truetype');
 }
 
-#status_label {
+#plexstatus_label {
     font-family: 'Electrolize', Fallback, sans-serif;
-    font-size: 28px;
-    text-align: left;
+    font-size: 24px;
+    text-align: center;
 }
 
-#status_label.status-info {
+#plexstatus_label.status-info {
     color: white
 }
 
-#status_label.status-success {
+#plexstatus_label.status-success {
     color: #42ea33
 }
 
-#status_label.status-error {
+#plexstatus_label.status-error {
     color: red
 }
