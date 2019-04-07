@@ -3,7 +3,7 @@
 
 const API_KEY = 'm782368432-b180ca0c6525dff383603918',
       API_URL = 'https://api.uptimerobot.com/v2/getMonitors',
-      POLL_TIME_IN_SECONDS = 60;
+      POLL_TIME_IN_SECONDS = 900;
 
 const statusLabelType = {
     INFO: 0,

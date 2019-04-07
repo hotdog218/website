@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/gmod-rules.html</loc>
+    <loc>http://saturnusmedia.net/tabletop-simulator-rules.html</loc>
     <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/tabletop-simulator-rules.html</loc>
+    <loc>http://saturnusmedia.net/gmod-rules.html</loc>
     <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>http://saturnusmedia.net/assets/stoneblockstatus.js</loc>
-    <lastmod>2019-04-06</lastmod>
+    <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>http://saturnusmedia.net/assets/skyfactorystatus.js</loc>
-    <lastmod>2019-04-06</lastmod>
+    <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -92,7 +92,7 @@
   </url>
   <url>
     <loc>http://saturnusmedia.net/assets/plexstatus.js</loc>
-    <lastmod>2019-04-06</lastmod>
+    <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -193,7 +193,49 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/images/1200px-gmodlogosvg.png</loc>
+    <loc>http://saturnusmedia.net/assets/ruststatus.css</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/ruststatus.js</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/dststatus.css</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/dststatus.js</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/arma2status.css</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/arma2status.js</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/theforeststatus.css</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/theforeststatus.js</loc>
     <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -206,7 +248,25 @@
   </url>
   <url>
     <loc>http://saturnusmedia.net/assets/voltzstatus.js</loc>
-    <lastmod>2019-04-06</lastmod>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/1200px-gmodlogosvg.png</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/i3rpf6dy7jvy.png</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/rust-icon.png</loc>
+    <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -349,6 +409,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://saturnusmedia.net/images/unnamed.png</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/va103_main.png</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/3dp_dandd_logo.png</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/zm7810_box_front.png</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/civ01_main.png</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://saturnusmedia.net/assets/electrolize-regular.ttf</loc>
     <lastmod>2014-04-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -356,7 +446,7 @@
   </url>
   <url>
     <loc>http://saturnusmedia.net/assets/1710status.js</loc>
-    <lastmod>2019-04-06</lastmod>
+    <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -374,7 +464,7 @@
   </url>
   <url>
     <loc>http://saturnusmedia.net/assets/gameserverstatus.js</loc>
-    <lastmod>2019-04-06</lastmod>
+    <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -391,19 +481,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://saturnusmedia.net/assets/arkstatus.css</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://saturnusmedia.net/assets/favicon.ico</loc>
     <lastmod>2019-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/images/i3rpf6dy7jvy.png</loc>
-    <lastmod>2019-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/rust-icon.png</loc>
+    <loc>http://saturnusmedia.net/assets/arkstatus.js</loc>
     <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

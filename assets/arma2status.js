@@ -1,9 +1,9 @@
 (function () {
 'use strict';
 
-const API_KEY = 'm782356935-6ab6e65989c6f20e26241dc5',
+const API_KEY = 'm782368505-fb9c7c4f2bec77f5b3a3bd5b',
       API_URL = 'https://api.uptimerobot.com/v2/getMonitors',
-      POLL_TIME_IN_SECONDS = 300;
+      POLL_TIME_IN_SECONDS = 900;
 
 const statusLabelType = {
     INFO: 0,
@@ -20,7 +20,7 @@ const serverStatus = {
 };
 
 function setStatusLabel(msg, type) {
-    var statusLabel = document.getElementById('gamestatus_label');
+    var statusLabel = document.getElementById('arma2status_label');
 
     statusLabel.innerText = msg;
 
@@ -69,7 +69,7 @@ function checkServerStatus(callback) {
 
                 switch (monStatus) {
                 case serverStatus.UP:
-                    setStatusLabel('Server is up!', statusLabelType.SUCCESS);
+                    setStatusLabel('Online', statusLabelType.SUCCESS);
                     break;
                 case serverStatus.NOT_CHECKED:
                     setStatusLabel('Server is paused.', statusLabelType.ERROR);
@@ -82,7 +82,7 @@ function checkServerStatus(callback) {
                     setStatusLabel('Server seems down.', statusLabelType.ERROR);
                     break;
                 case serverStatus.DOWN:
-                    setStatusLabel('Server is down!', statusLabelType.ERROR);
+                    setStatusLabel('Offline', statusLabelType.ERROR);
                     break;
                 default:
                     setStatusLabel('Unknown server status code: ' + monStatus);
@@ -121,4 +121,3 @@ window.addEventListener('DOMContentLoaded', function (e) {
 }, false);
 
 })();
-
