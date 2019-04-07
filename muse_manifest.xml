@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554652508051">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554652994129">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
     <file name="electrolize-regular.ttf" crc="4118042541" seo="true" mt="1398829646000"/>
@@ -18,6 +18,12 @@
     <file name="plexstatus.js" crc="4160183479" seo="true" mt="1554588889000"/>
     <file name="reypackstatus.css" crc="362447387" seo="true" mt="1554652439000"/>
     <file name="reypackstatus.js" crc="4055797480" seo="true" mt="1554652481000"/>
+    <file name="etwoestatus.css" crc="4235054958" seo="true" mt="1554652752000"/>
+    <file name="etwoestatus.js" crc="4217857571" seo="true" mt="1554652777000"/>
+    <file name="sevtechstatus.css" crc="170247422" seo="true" mt="1554652875000"/>
+    <file name="sevtechstatus.js" crc="3759636348" seo="true" mt="1554652875000"/>
+    <file name="yogscompletestatus.css" crc="36823425" seo="true" mt="1554652969000"/>
+    <file name="yogscompletestatus.js" crc="53409323" seo="true" mt="1554652969000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="251057638"/>
@@ -29,7 +35,7 @@
     <file name="media-server-specs.css" crc="4237085780" ref="media-server-specs"/>
     <file name="iefonts_media-server-specs.css" crc="110659264" ref="media-server-specs"/>
     <file name="rules.css" crc="277141800" ref="rules"/>
-    <file name="game-servers.css" crc="4027666126" ref="game-servers"/>
+    <file name="game-servers.css" crc="4163858221" ref="game-servers"/>
     <file name="tabletop-simulator-rules.css" crc="321675161" ref="tabletop-simulator-rules"/>
     <file name="gmod-rules.css" crc="73893875" ref="gmod-rules"/>
   </folder>
@@ -70,7 +76,7 @@
     <file name="risk-logo.png" crc="3966560990" seo="true" ref="tabletop-simulator-rules"/>
     <file name="1280px-uno_logosvg.png" crc="4123130307" seo="true" ref="tabletop-simulator-rules"/>
     <file name="1200px-secret_hitlersvg.png" crc="3799249578" seo="true" ref="tabletop-simulator-rules"/>
-    <file name="arklogo-crop-u5504.png" crc="4011510262" ref="game-servers"/>
+    <file name="arklogo-crop-u5504.png" crc="3797859791" ref="game-servers"/>
     <file name="001596-716x716.png" crc="4063831246" seo="true" ref="tabletop-simulator-rules"/>
     <file name="tts-horizontal-logoloho-crop-u6131.png" crc="6265289" ref="game-servers"/>
     <file name="tts-horizontal-logoloho-crop-u6504.png" crc="6265289" ref="rules"/>
@@ -82,7 +88,7 @@
   <file name="media-server-specs.html" crc="3862985699" seo="true" mt="1554404675416" redirect="true"/>
   <file name="game-server-specs.html" crc="4093753405" seo="true" mt="1554652132453" redirect="true"/>
   <file name="rules.html" crc="4243185866" seo="true" mt="1554651457125" redirect="true"/>
-  <file name="game-servers.html" crc="11316010" seo="true" mt="1554652423313" redirect="true"/>
+  <file name="game-servers.html" crc="14827123" seo="true" mt="1554652944906" redirect="true"/>
   <file name="tabletop-simulator-rules.html" crc="44756895" seo="true" mt="1554651603425" redirect="true"/>
   <file name="gmod-rules.html" crc="4031120774" seo="true" mt="1554651568528" redirect="true"/>
 </manifest>

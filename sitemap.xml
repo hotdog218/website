@@ -109,6 +109,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://saturnusmedia.net/assets/etwoestatus.css</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/etwoestatus.js</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/sevtechstatus.css</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/sevtechstatus.js</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/yogscompletestatus.css</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/yogscompletestatus.js</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://saturnusmedia.net/images/1200px-gmodlogosvg.png</loc>
     <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -139,14 +175,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/images/mpforesticon.png</loc>
-    <lastmod>2019-04-07</lastmod>
+    <loc>http://saturnusmedia.net/assets/voltzstatus.css</loc>
+    <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/images/whitebackbutton.png</loc>
-    <lastmod>2019-04-07</lastmod>
+    <loc>http://saturnusmedia.net/assets/voltzstatus.js</loc>
+    <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -157,14 +193,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/voltzstatus.css</loc>
-    <lastmod>2019-04-06</lastmod>
+    <loc>http://saturnusmedia.net/images/download-icon-61870.png</loc>
+    <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/voltzstatus.js</loc>
-    <lastmod>2019-04-06</lastmod>
+    <loc>http://saturnusmedia.net/images/specs.png</loc>
+    <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -313,13 +349,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/images/download-icon-61870.png</loc>
+    <loc>http://saturnusmedia.net/images/mpforesticon.png</loc>
     <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/images/specs.png</loc>
+    <loc>http://saturnusmedia.net/images/whitebackbutton.png</loc>
     <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
