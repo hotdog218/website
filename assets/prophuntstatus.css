@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Electrolize';
+  src: url('assets/Electrolize-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('assets/Electrolize-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('assets/Electrolize-Regular.ttf')  format('truetype');
+}
+
+#prophuntstatus_label {
+    font-family: 'Electrolize', Fallback, sans-serif;
+    font-size: 28px;
+    text-align: left;
+}
+
+#prophuntstatus_label.status-info {
+    color: white
+}
+
+#prophuntstatus_label.status-success {
+    color: #42ea33
+}
+
+#prophuntstatus_label.status-error {
+    color: red
+}

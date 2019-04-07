@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Electrolize';
+  src: url('assets/Electrolize-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('assets/Electrolize-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('assets/Electrolize-Regular.ttf')  format('truetype');
+}
+
+#spaceengstatus_label {
+    font-family: 'Electrolize', Fallback, sans-serif;
+    font-size: 28px;
+    text-align: left;
+}
+
+#spaceengstatus_label.status-info {
+    color: white
+}
+
+#spaceengstatus_label.status-success {
+    color: #42ea33
+}
+
+#spaceengstatus_label.status-error {
+    color: red
+}
