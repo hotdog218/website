@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1554662255861">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1555347360430">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
     <file name="electrolize-regular.ttf" crc="4118042541" seo="true" mt="1398829646000"/>
@@ -44,17 +44,17 @@
     <file name="arkstatus.js" crc="269553916" seo="true" mt="1554662030000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="251057638"/>
+    <file name="site_global.css" crc="156195782"/>
     <file name="index.css" crc="4234822033" ref="index"/>
-    <file name="media-server.css" crc="202628673" ref="media-server"/>
+    <file name="media-server.css" crc="4175754103" ref="media-server"/>
     <file name="installation-help.css" crc="134350179" ref="installation-help"/>
     <file name="reypack.css" crc="132947109" ref="reypack"/>
     <file name="game-server-specs.css" crc="3866992188" ref="game-server-specs"/>
     <file name="media-server-specs.css" crc="4237085780" ref="media-server-specs"/>
     <file name="iefonts_media-server-specs.css" crc="110659264" ref="media-server-specs"/>
     <file name="rules.css" crc="277141800" ref="rules"/>
-    <file name="game-servers.css" crc="4203167188" ref="game-servers"/>
-    <file name="tabletop-simulator-rules.css" crc="4079945971" ref="tabletop-simulator-rules"/>
+    <file name="game-servers.css" crc="4212524356" ref="game-servers"/>
+    <file name="tabletop-simulator-rules.css" crc="4188651504" ref="tabletop-simulator-rules"/>
     <file name="gmod-rules.css" crc="73893875" ref="gmod-rules"/>
   </folder>
   <folder name="scripts">
@@ -94,7 +94,7 @@
     <file name="risk-logo.png" crc="3966560990" seo="true" ref="tabletop-simulator-rules"/>
     <file name="1280px-uno_logosvg.png" crc="4123130307" seo="true" ref="tabletop-simulator-rules"/>
     <file name="1200px-secret_hitlersvg.png" crc="3799249578" seo="true" ref="tabletop-simulator-rules"/>
-    <file name="arklogo-crop-u5504.png" crc="3797859791" ref="game-servers"/>
+    <file name="arklogo-crop-u5504.png" crc="4011510262" ref="game-servers"/>
     <file name="001596-716x716.png" crc="4063831246" seo="true" ref="tabletop-simulator-rules"/>
     <file name="tts-horizontal-logoloho-crop-u6131.png" crc="6265289" ref="game-servers"/>
     <file name="tts-horizontal-logoloho-crop-u6504.png" crc="6265289" ref="rules"/>
@@ -105,13 +105,13 @@
     <file name="civ01_main.png" crc="4092034071" seo="true" ref="tabletop-simulator-rules"/>
   </folder>
   <file name="index.html" crc="492371399" seo="true" mt="1554662237895" redirect="true"/>
-  <file name="media-server.html" crc="4260482525" seo="true" mt="1554404675416" redirect="true"/>
+  <file name="media-server.html" crc="201987380" seo="true" mt="1555347167667" redirect="true"/>
   <file name="reypack.html" crc="4198776078" seo="true" mt="1554074966441" redirect="true"/>
   <file name="installation-help.html" crc="193646035" seo="true" mt="1554404675416" redirect="true"/>
   <file name="media-server-specs.html" crc="3862985699" seo="true" mt="1554404675416" redirect="true"/>
   <file name="game-server-specs.html" crc="4093753405" seo="true" mt="1554652132453" redirect="true"/>
   <file name="rules.html" crc="4243185866" seo="true" mt="1554651457125" redirect="true"/>
-  <file name="game-servers.html" crc="4113696641" seo="true" mt="1554662077102" redirect="true"/>
-  <file name="tabletop-simulator-rules.html" crc="134377689" seo="true" mt="1554661134889" redirect="true"/>
+  <file name="game-servers.html" crc="514783972" seo="true" mt="1555347276150" redirect="true"/>
+  <file name="tabletop-simulator-rules.html" crc="3878738166" seo="true" mt="1554664759838" redirect="true"/>
   <file name="gmod-rules.html" crc="4031120774" seo="true" mt="1554651568528" redirect="true"/>
 </manifest>
