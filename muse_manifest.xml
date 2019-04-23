@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1556032028602">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1556032144687">
   <folder name="assets">
     <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
     <file name="electrolize-regular.ttf" crc="4118042541" seo="true" mt="1398829646000"/>
@@ -47,7 +47,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="156195782"/>
-    <file name="index.css" crc="3931533348" ref="index"/>
+    <file name="index.css" crc="3930001290" ref="index"/>
     <file name="media-server.css" crc="4175754103" ref="media-server"/>
     <file name="installation-help.css" crc="134350179" ref="installation-help"/>
     <file name="reypack.css" crc="132947109" ref="reypack"/>
@@ -106,7 +106,7 @@
     <file name="zm7810_box_front.png" crc="99973145" seo="true" ref="tabletop-simulator-rules"/>
     <file name="civ01_main.png" crc="4092034071" seo="true" ref="tabletop-simulator-rules"/>
   </folder>
-  <file name="index.html" crc="443534904" seo="true" mt="1555889414445" redirect="true"/>
+  <file name="index.html" crc="4096846021" seo="true" mt="1556032136768" redirect="true"/>
   <file name="media-server.html" crc="201987380" seo="true" mt="1555347167667" redirect="true"/>
   <file name="reypack.html" crc="4198776078" seo="true" mt="1554074966441" redirect="true"/>
   <file name="installation-help.html" crc="193646035" seo="true" mt="1554404675416" redirect="true"/>
