@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://saturnusmedia.net/index.html</loc>
-    <lastmod>2019-04-23</lastmod>
+    <lastmod>2019-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,36 +57,6 @@
   <url>
     <loc>http://saturnusmedia.net/media-server.html</loc>
     <lastmod>2019-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/assets/stoneblockstatus.css</loc>
-    <lastmod>2019-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/assets/stoneblockstatus.js</loc>
-    <lastmod>2019-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/assets/skyfactorystatus.css</loc>
-    <lastmod>2019-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/assets/skyfactorystatus.js</loc>
-    <lastmod>2019-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/assets/plexstatus.css</loc>
-    <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -253,14 +223,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/voltzstatus.css</loc>
-    <lastmod>2019-04-06</lastmod>
+    <loc>http://saturnusmedia.net/assets/skyfactoryfourstatus.css</loc>
+    <lastmod>2019-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/voltzstatus.js</loc>
-    <lastmod>2019-04-07</lastmod>
+    <loc>http://saturnusmedia.net/assets/skyfactoryfourstatus.js</loc>
+    <lastmod>2019-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -277,224 +247,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/images/1200px-gmodlogosvg.png</loc>
-    <lastmod>2019-05-09</lastmod>
+    <loc>http://saturnusmedia.net/assets/gameserverstatus.css</loc>
+    <lastmod>2019-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/images/i3rpf6dy7jvy.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/rust-icon.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/favicon-8.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/kisspng-dayz-arma-2-killing-floor-2-counter-strike-global-dayz-5b22013b48b6849090846615289551952978.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/mpforesticon.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/whitebackbutton.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/minecraft-1-logo-png-transparent.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/download-icon-61870.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/specs.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/technic-launcher-logo-png-transparent.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/dd9brg9j_400x400.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/be3e2913de564941984d0cd5a227a14b.jpg</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/7074ebc3df214ec32280be549426c35c.jpg</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/shutterstock_242436673.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/technic%20p2.jpg</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/clipboard.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/customlogo.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/prop%20hunt%20logo.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/mudergmod.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/2c48755938d4e51ca8f76ced8b3912af.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/catanlogo.gif</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/risk-logo.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/1280px-uno_logosvg.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/1200px-secret_hitlersvg.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/001596-716x716.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/unnamed.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/va103_main.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/3dp_dandd_logo.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/zm7810_box_front.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/images/civ01_main.png</loc>
-    <lastmod>2019-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/assets/electrolize-regular.ttf</loc>
-    <lastmod>2014-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/assets/1710status.js</loc>
+    <loc>http://saturnusmedia.net/assets/skyfactorystatus.js</loc>
     <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/1710status.css</loc>
+    <loc>http://saturnusmedia.net/assets/plexstatus.css</loc>
     <lastmod>2019-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/assets/uptimestatusgamesvr.css</loc>
-    <lastmod>2019-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/assets/gameserverstatus.js</loc>
-    <lastmod>2019-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/assets/electrolize-regular.woff2</loc>
-    <lastmod>2019-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -505,8 +271,236 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/skyfactoryfourstatus.css</loc>
-    <lastmod>2019-04-17</lastmod>
+    <loc>http://saturnusmedia.net/assets/electrolize-regular.woff2</loc>
+    <lastmod>2019-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/1200px-gmodlogosvg.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/i3rpf6dy7jvy.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/rust-icon.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/favicon-8.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/kisspng-dayz-arma-2-killing-floor-2-counter-strike-global-dayz-5b22013b48b6849090846615289551952978.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/mpforesticon.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/whitebackbutton.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/minecraft-1-logo-png-transparent.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/download-icon-61870.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/specs.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/technic-launcher-logo-png-transparent.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/dd9brg9j_400x400.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/be3e2913de564941984d0cd5a227a14b.jpg</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/7074ebc3df214ec32280be549426c35c.jpg</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/shutterstock_242436673.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/technic%20p2.jpg</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/clipboard.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/customlogo.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/prop%20hunt%20logo.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/mudergmod.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/2c48755938d4e51ca8f76ced8b3912af.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/catanlogo.gif</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/risk-logo.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/1280px-uno_logosvg.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/1200px-secret_hitlersvg.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/001596-716x716.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/unnamed.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/va103_main.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/3dp_dandd_logo.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/zm7810_box_front.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/images/civ01_main.png</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/1710status.css</loc>
+    <lastmod>2019-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/skyfactorystatus.css</loc>
+    <lastmod>2019-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/stoneblockstatus.js</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/stoneblockstatus.css</loc>
+    <lastmod>2019-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/voltzstatus.js</loc>
+    <lastmod>2019-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/voltzstatus.css</loc>
+    <lastmod>2019-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/1710status.js</loc>
+    <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -517,8 +511,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/skyfactoryfourstatus.js</loc>
-    <lastmod>2019-04-17</lastmod>
+    <loc>http://saturnusmedia.net/assets/gameserverstatus.js</loc>
+    <lastmod>2019-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/electrolize-regular.ttf</loc>
+    <lastmod>2014-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

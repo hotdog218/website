@@ -1,11 +1,6 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1557414818870">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1558158561942">
   <folder name="assets">
-    <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
-    <file name="electrolize-regular.ttf" crc="4118042541" seo="true" mt="1398829646000"/>
-    <file name="electrolize-regular.woff" crc="3851232758" seo="true" mt="1554365862000"/>
-    <file name="electrolize-regular.woff2" crc="4259292166" seo="true" mt="1554365896000"/>
-    <file name="gameserverstatus.js" crc="4053076413" seo="true" mt="1554662184000"/>
-    <file name="uptimestatusgamesvr.css" crc="341976109" seo="true" mt="1554582175000"/>
+    <file name="gameserverstatus.js" crc="4016733102" seo="true" mt="1558158253000"/>
     <file name="1710status.css" crc="3972454034" seo="true" mt="1554583422000"/>
     <file name="1710status.js" crc="3968437195" seo="true" mt="1554662123000"/>
     <file name="voltzstatus.css" crc="8338399" seo="true" mt="1554583672000"/>
@@ -46,10 +41,15 @@
     <file name="skyfactoryfourstatus.js" crc="3975183207" seo="true" mt="1555539642000"/>
     <file name="mordhaustatus.css" crc="276021428" seo="true" mt="1557414769000"/>
     <file name="mordhaustatus.js" crc="526653252" seo="true" mt="1557414769000"/>
+    <file name="gameserverstatus.css" crc="269512856" seo="true" mt="1558158292000"/>
+    <file name="favicon.ico" crc="46024320" seo="true" mt="1554059830000"/>
+    <file name="electrolize-regular.ttf" crc="4118042541" seo="true" mt="1398829646000"/>
+    <file name="electrolize-regular.woff" crc="3851232758" seo="true" mt="1554365862000"/>
+    <file name="electrolize-regular.woff2" crc="4259292166" seo="true" mt="1554365896000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="156195782"/>
-    <file name="index.css" crc="3930001290" ref="index"/>
+    <file name="site_global.css" crc="251057638"/>
+    <file name="index.css" crc="4068085397" ref="index"/>
     <file name="media-server.css" crc="4175754103" ref="media-server"/>
     <file name="installation-help.css" crc="134350179" ref="installation-help"/>
     <file name="reypack.css" crc="132947109" ref="reypack"/>
@@ -109,7 +109,7 @@
     <file name="civ01_main.png" crc="4092034071" seo="true" ref="tabletop-simulator-rules"/>
     <file name="mordhau_logo2-crop-u7335.png" crc="4165954948" ref="game-servers"/>
   </folder>
-  <file name="index.html" crc="4096846021" seo="true" mt="1556032136768" redirect="true"/>
+  <file name="index.html" crc="3995124319" seo="true" mt="1558158394159" redirect="true"/>
   <file name="media-server.html" crc="201987380" seo="true" mt="1555347167667" redirect="true"/>
   <file name="reypack.html" crc="4198776078" seo="true" mt="1554074966441" redirect="true"/>
   <file name="installation-help.html" crc="193646035" seo="true" mt="1554404675416" redirect="true"/>

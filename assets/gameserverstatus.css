@@ -5,20 +5,20 @@
        url('assets/Electrolize-Regular.ttf')  format('truetype');
 }
 
-#gamestatus_label {
+#gameserverstatus_label {
     font-family: 'Electrolize', Fallback, sans-serif;
     font-size: 24px;
     text-align: center;
 }
 
-#gamestatus_label.status-info {
+#gameserverstatus_label.status-info {
     color: white
 }
 
-#gamestatus_label.status-success {
+#gameserverstatus_label.status-success {
     color: #42ea33
 }
 
-#gamestatus_label.status-error {
+#gameserverstatus_label.status-error {
     color: red
 }

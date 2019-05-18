@@ -1,7 +1,7 @@
 (function () {
 'use strict';
 
-const API_KEY = 'm782356935-6ab6e65989c6f20e26241dc5',
+const API_KEY = 'm782691271-abe41f0d0a56be868bbae812',
       API_URL = 'https://api.uptimerobot.com/v2/getMonitors',
       POLL_TIME_IN_SECONDS = 300;
 
@@ -20,7 +20,7 @@ const serverStatus = {
 };
 
 function setStatusLabel(msg, type) {
-    var statusLabel = document.getElementById('gamestatus_label');
+    var statusLabel = document.getElementById('gameserverstatus_label');
 
     statusLabel.innerText = msg;
 
