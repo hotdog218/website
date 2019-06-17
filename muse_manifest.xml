@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1558649918266">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1560793395604">
   <folder name="assets">
     <file name="gameserverstatus.js" crc="4016733102" seo="true" mt="1558158253000"/>
     <file name="1710status.css" crc="3972454034" seo="true" mt="1554583422000"/>
@@ -48,18 +48,19 @@
     <file name="electrolize-regular.woff2" crc="4259292166" seo="true" mt="1554365896000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="156195782"/>
-    <file name="index.css" crc="4026564086" ref="index"/>
-    <file name="media-server.css" crc="4175754103" ref="media-server"/>
-    <file name="installation-help.css" crc="134350179" ref="installation-help"/>
+    <file name="site_global.css" crc="4188610501"/>
+    <file name="index.css" crc="4165662611" ref="index"/>
+    <file name="media-server.css" crc="4032477573" ref="media-server"/>
+    <file name="installation-help.css" crc="3979725256" ref="installation-help"/>
     <file name="reypack.css" crc="132947109" ref="reypack"/>
-    <file name="game-server-specs.css" crc="3866992188" ref="game-server-specs"/>
-    <file name="media-server-specs.css" crc="4237085780" ref="media-server-specs"/>
+    <file name="game-server-specs.css" crc="4097676957" ref="game-server-specs"/>
+    <file name="media-server-specs.css" crc="4079527223" ref="media-server-specs"/>
     <file name="iefonts_media-server-specs.css" crc="110659264" ref="media-server-specs"/>
     <file name="rules.css" crc="277141800" ref="rules"/>
     <file name="game-servers.css" crc="3988605670" ref="game-servers"/>
     <file name="tabletop-simulator-rules.css" crc="4188651504" ref="tabletop-simulator-rules"/>
     <file name="gmod-rules.css" crc="73893875" ref="gmod-rules"/>
+    <file name="iefonts_game-server-specs.css" crc="4056030295" ref="game-server-specs"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:game-servers:tabletop-simulator-rules:gmod-rules"/>
@@ -109,14 +110,14 @@
     <file name="civ01_main.png" crc="4092034071" seo="true" ref="tabletop-simulator-rules"/>
     <file name="mordhau_logo2-crop-u7335.png" crc="4165954948" ref="game-servers"/>
   </folder>
-  <file name="index.html" crc="3972173260" seo="true" mt="1558649909826" redirect="true"/>
-  <file name="media-server.html" crc="201987380" seo="true" mt="1555347167667" redirect="true"/>
-  <file name="reypack.html" crc="4198776078" seo="true" mt="1554074966441" redirect="true"/>
-  <file name="installation-help.html" crc="193646035" seo="true" mt="1554404675416" redirect="true"/>
-  <file name="media-server-specs.html" crc="3862985699" seo="true" mt="1554404675416" redirect="true"/>
-  <file name="game-server-specs.html" crc="4093753405" seo="true" mt="1554652132453" redirect="true"/>
-  <file name="rules.html" crc="4243185866" seo="true" mt="1554651457125" redirect="true"/>
-  <file name="game-servers.html" crc="3918045343" seo="true" mt="1557414803714" redirect="true"/>
-  <file name="tabletop-simulator-rules.html" crc="3878738166" seo="true" mt="1554664759838" redirect="true"/>
-  <file name="gmod-rules.html" crc="4031120774" seo="true" mt="1554651568528" redirect="true"/>
+  <file name="index.html" crc="440634897" seo="true" mt="1560792866249" redirect="true"/>
+  <file name="media-server.html" crc="4272194667" seo="true" mt="1560792866244" redirect="true"/>
+  <file name="reypack.html" crc="364027601" seo="true" mt="1560792866305" redirect="true"/>
+  <file name="installation-help.html" crc="4118014150" seo="true" mt="1560792866247" redirect="true"/>
+  <file name="media-server-specs.html" crc="415609115" seo="true" mt="1560793246435" redirect="true"/>
+  <file name="game-server-specs.html" crc="309579127" seo="true" mt="1560793356184" redirect="true"/>
+  <file name="rules.html" crc="260311356" seo="true" mt="1560792866236" redirect="true"/>
+  <file name="game-servers.html" crc="4171744835" seo="true" mt="1560792866241" redirect="true"/>
+  <file name="tabletop-simulator-rules.html" crc="4214222833" seo="true" mt="1560792866245" redirect="true"/>
+  <file name="gmod-rules.html" crc="4144975333" seo="true" mt="1560792866257" redirect="true"/>
 </manifest>
