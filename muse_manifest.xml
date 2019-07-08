@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1562620588888">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1562620833215">
   <folder name="css">
     <file name="site_global.css" crc="89965003"/>
     <file name="index.css" crc="4188326053" ref="index"/>
@@ -79,30 +79,30 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="landingbackground.jpg" crc="3776884278" ref="index:game-servers:media-server:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules">
-      <caption webpage="tabletop-simulator-rules" alt=""/>
-      <caption webpage="installation-help" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="rules" alt=""/>
-      <caption webpage="gmod-rules" alt=""/>
-      <caption webpage="media-server" alt=""/>
-      <caption webpage="game-servers" alt=""/>
-      <caption webpage="media-server-specs" alt=""/>
       <caption webpage="game-server-specs" alt=""/>
+      <caption webpage="gmod-rules" alt=""/>
+      <caption webpage="tabletop-simulator-rules" alt=""/>
+      <caption webpage="media-server" alt=""/>
+      <caption webpage="media-server-specs" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="game-servers" alt=""/>
+      <caption webpage="installation-help" alt=""/>
+      <caption webpage="rules" alt=""/>
     </file>
     <file name="whitebackbutton.png" crc="4221700727" seo="true" ref="game-servers:media-server:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules">
-      <caption webpage="tabletop-simulator-rules" alt=""/>
-      <caption webpage="tabletop-simulator-rules" alt=""/>
-      <caption webpage="installation-help" alt=""/>
-      <caption webpage="installation-help" alt=""/>
-      <caption webpage="rules" alt=""/>
-      <caption webpage="rules" alt=""/>
-      <caption webpage="gmod-rules" alt=""/>
-      <caption webpage="gmod-rules" alt=""/>
-      <caption webpage="media-server" alt=""/>
-      <caption webpage="game-servers" alt=""/>
-      <caption webpage="game-servers" alt=""/>
-      <caption webpage="media-server-specs" alt=""/>
       <caption webpage="game-server-specs" alt=""/>
+      <caption webpage="game-servers" alt=""/>
+      <caption webpage="game-servers" alt=""/>
+      <caption webpage="tabletop-simulator-rules" alt=""/>
+      <caption webpage="tabletop-simulator-rules" alt=""/>
+      <caption webpage="media-server" alt=""/>
+      <caption webpage="media-server-specs" alt=""/>
+      <caption webpage="gmod-rules" alt=""/>
+      <caption webpage="gmod-rules" alt=""/>
+      <caption webpage="installation-help" alt=""/>
+      <caption webpage="installation-help" alt=""/>
+      <caption webpage="rules" alt=""/>
+      <caption webpage="rules" alt=""/>
     </file>
     <file name="i3rpf6dy7jvy.png" crc="400003888" seo="true" ref="game-servers">
       <caption webpage="game-servers" alt=""/>
@@ -114,8 +114,8 @@
       <caption webpage="game-servers" alt=""/>
     </file>
     <file name="1200px-gmodlogosvg.png" crc="4127812475" seo="true" ref="game-servers:rules">
-      <caption webpage="game-servers" alt=""/>
       <caption webpage="rules" alt=""/>
+      <caption webpage="game-servers" alt=""/>
     </file>
     <file name="favicon-8.png" crc="519699840" seo="true" ref="game-servers">
       <caption webpage="game-servers" alt=""/>
@@ -133,14 +133,14 @@
       <caption webpage="game-servers" alt=""/>
     </file>
     <file name="shutterstock_242436673.png" crc="4031975840" seo="true" ref="game-servers:tabletop-simulator-rules:gmod-rules">
-      <caption webpage="tabletop-simulator-rules" alt=""/>
-      <caption webpage="tabletop-simulator-rules" alt=""/>
-      <caption webpage="tabletop-simulator-rules" alt=""/>
-      <caption webpage="tabletop-simulator-rules" alt=""/>
-      <caption webpage="tabletop-simulator-rules" alt=""/>
-      <caption webpage="tabletop-simulator-rules" alt=""/>
-      <caption webpage="game-servers" alt=""/>
       <caption webpage="gmod-rules" alt=""/>
+      <caption webpage="game-servers" alt=""/>
+      <caption webpage="tabletop-simulator-rules" alt=""/>
+      <caption webpage="tabletop-simulator-rules" alt=""/>
+      <caption webpage="tabletop-simulator-rules" alt=""/>
+      <caption webpage="tabletop-simulator-rules" alt=""/>
+      <caption webpage="tabletop-simulator-rules" alt=""/>
+      <caption webpage="tabletop-simulator-rules" alt=""/>
     </file>
     <file name="clipboard.png" crc="63158985" seo="true" ref="game-servers">
       <caption webpage="game-servers" alt=""/>
@@ -215,14 +215,14 @@
       <caption webpage="gmod-rules" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3989921811" seo="true" mt="1560792866249" redirect="true"/>
-  <file name="game-servers.html" crc="301807305" seo="true" mt="1562620529391" redirect="true"/>
-  <file name="media-server.html" crc="60034453" seo="true" mt="1560792866244" redirect="true"/>
+  <file name="index.html" crc="463361317" seo="true" mt="1562620809333" redirect="true"/>
+  <file name="game-servers.html" crc="4050261667" seo="true" mt="1562620809333" redirect="true"/>
+  <file name="media-server.html" crc="3783398878" seo="true" mt="1562620809333" redirect="true"/>
   <file name="reypack.html" crc="3885597575" seo="true" mt="1560792866305" redirect="true"/>
-  <file name="installation-help.html" crc="384398399" seo="true" mt="1560792866247" redirect="true"/>
-  <file name="media-server-specs.html" crc="240094037" seo="true" mt="1560793246435" redirect="true"/>
-  <file name="game-server-specs.html" crc="4226004663" seo="true" mt="1560793356184" redirect="true"/>
-  <file name="rules.html" crc="3915369814" seo="true" mt="1560792866236" redirect="true"/>
-  <file name="tabletop-simulator-rules.html" crc="449837676" seo="true" mt="1560792866245" redirect="true"/>
-  <file name="gmod-rules.html" crc="4025602844" seo="true" mt="1560792866257" redirect="true"/>
+  <file name="installation-help.html" crc="325846718" seo="true" mt="1562620809333" redirect="true"/>
+  <file name="media-server-specs.html" crc="521257627" seo="true" mt="1562620809333" redirect="true"/>
+  <file name="game-server-specs.html" crc="194370102" seo="true" mt="1562620809333" redirect="true"/>
+  <file name="rules.html" crc="4207489357" seo="true" mt="1562620809333" redirect="true"/>
+  <file name="tabletop-simulator-rules.html" crc="4144944954" seo="true" mt="1562620809333" redirect="true"/>
+  <file name="gmod-rules.html" crc="30981864" seo="true" mt="1562620809333" redirect="true"/>
 </manifest>
