@@ -31,6 +31,12 @@
     </image:image>
   </url>
   <url>
+    <loc>http://saturnusmedia.net/under-renovation.html</loc>
+    <lastmod>2019-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://saturnusmedia.net/tabletop-simulator-rules.html</loc>
     <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -92,7 +98,7 @@
   </url>
   <url>
     <loc>http://saturnusmedia.net/game-server-specs.html</loc>
-    <lastmod>2019-07-08</lastmod>
+    <lastmod>2019-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -101,7 +107,7 @@
   </url>
   <url>
     <loc>http://saturnusmedia.net/media-server-specs.html</loc>
-    <lastmod>2019-07-08</lastmod>
+    <lastmod>2019-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -142,17 +148,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/media-server.html</loc>
-    <lastmod>2019-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://saturnusmedia.net/images/whitebackbutton.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://saturnusmedia.net/game-servers.html</loc>
-    <lastmod>2019-07-08</lastmod>
+    <lastmod>2019-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -199,7 +196,22 @@
     </image:image>
   </url>
   <url>
+    <loc>http://saturnusmedia.net/media-server.html</loc>
+    <lastmod>2019-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://saturnusmedia.net/images/whitebackbutton.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://saturnusmedia.net/assets/skyfactorystatus.css</loc>
+    <lastmod>2019-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saturnusmedia.net/assets/stoneblockstatus.css</loc>
     <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -211,20 +223,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/stoneblockstatus.css</loc>
-    <lastmod>2019-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://saturnusmedia.net/assets/stoneblockstatus.js</loc>
     <lastmod>2019-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://saturnusmedia.net/assets/voltzstatus.css</loc>
-    <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -247,13 +247,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/arkstatus.css</loc>
-    <lastmod>2019-04-07</lastmod>
+    <loc>http://saturnusmedia.net/assets/voltzstatus.css</loc>
+    <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/arkstatus.js</loc>
+    <loc>http://saturnusmedia.net/assets/arkstatus.css</loc>
     <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -307,8 +307,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/skyfactoryfourstatus.css</loc>
-    <lastmod>2019-04-17</lastmod>
+    <loc>http://saturnusmedia.net/assets/arkstatus.js</loc>
+    <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -433,6 +433,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://saturnusmedia.net/assets/skyfactoryfourstatus.css</loc>
+    <lastmod>2019-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://saturnusmedia.net/assets/sevtechstatus.js</loc>
     <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -469,14 +475,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/1710status.css</loc>
-    <lastmod>2019-04-06</lastmod>
+    <loc>http://saturnusmedia.net/assets/prophuntstatus.css</loc>
+    <lastmod>2019-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://saturnusmedia.net/assets/prophuntstatus.css</loc>
-    <lastmod>2019-04-07</lastmod>
+    <loc>http://saturnusmedia.net/assets/1710status.css</loc>
+    <lastmod>2019-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
