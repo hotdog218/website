@@ -149,7 +149,7 @@
   </url>
   <url>
     <loc>http://saturnusmedia.net/game-servers.html</loc>
-    <lastmod>2019-07-16</lastmod>
+    <lastmod>2019-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -193,6 +193,9 @@
     </image:image>
     <image:image>
       <image:loc>http://saturnusmedia.net/images/mordhau_logo2-crop-u7335.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://saturnusmedia.net/images/manwar_logo_hover.png</image:loc>
     </image:image>
   </url>
   <url>
