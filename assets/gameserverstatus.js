@@ -1,7 +1,7 @@
 (function () {
 'use strict';
 
-const API_KEY = 'm782691271-abe41f0d0a56be868bbae812',
+const API_KEY = 'm784883292-6e145f73ed2c1c91a7d7550f',
       API_URL = 'https://api.uptimerobot.com/v2/getMonitors',
       POLL_TIME_IN_SECONDS = 300;
 
