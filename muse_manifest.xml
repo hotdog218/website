@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1598058630094">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="saturnusmedia.net" resolutions="1x" timestamp="1613954467731">
   <folder name="css">
-    <file name="site_global.css" crc="89965003"/>
-    <file name="index.css" crc="4188326053" ref="index"/>
+    <file name="site_global.css" crc="132649028"/>
+    <file name="index.css" crc="4005126534" ref="index"/>
     <file name="gmod-rules.css" crc="4121168892" ref="gmod-rules"/>
     <file name="installation-help.css" crc="3896074845" ref="installation-help"/>
     <file name="media-server.css" crc="17352892" ref="media-server"/>
@@ -14,6 +14,7 @@
     <file name="iefonts_media-server-specs.css" crc="110659264" ref="media-server-specs"/>
     <file name="tabletop-simulator-rules.css" crc="4066131290" ref="tabletop-simulator-rules"/>
     <file name="under-renovation.css" crc="4236342451" ref="under-renovation"/>
+    <file name="donation.css" crc="4245769265" ref="donation"/>
   </folder>
   <folder name="assets">
     <file name="1710status.css" crc="3972454034" seo="true" mt="1554583422000"/>
@@ -66,30 +67,31 @@
     <file name="interactionsstatus.js" crc="4052161405" seo="true" mt="1562620432000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:game-servers:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation"/>
-    <file name="museutils.js" crc="340535759" ref="index:game-servers:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation"/>
-    <file name="whatinput.js" crc="86476730" ref="index:game-servers:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:game-servers:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:game-servers:media-server:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:game-servers:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation"/>
-    <file name="require.js" crc="7928878" ref="index:game-servers:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:game-servers:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation:donation"/>
+    <file name="museutils.js" crc="340535759" ref="index:game-servers:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation:donation"/>
+    <file name="whatinput.js" crc="86476730" ref="index:game-servers:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation:donation"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:game-servers:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation:donation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:game-servers:media-server:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation:donation"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:game-servers:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation:donation"/>
+    <file name="require.js" crc="7928878" ref="index:game-servers:media-server:reypack:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation:donation"/>
   </folder>
   <folder name="images">
     <file name="specs.png" crc="200382299" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="landingbackground.jpg" crc="3776884278" ref="index:game-servers:media-server:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation">
-      <caption webpage="under-renovation" alt=""/>
+    <file name="landingbackground.jpg" crc="3776884278" ref="index:game-servers:media-server:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules:under-renovation:donation">
+      <caption webpage="game-servers" alt=""/>
       <caption webpage="rules" alt=""/>
-      <caption webpage="installation-help" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="media-server-specs" alt=""/>
-      <caption webpage="tabletop-simulator-rules" alt=""/>
       <caption webpage="media-server" alt=""/>
       <caption webpage="game-server-specs" alt=""/>
-      <caption webpage="game-servers" alt=""/>
+      <caption webpage="installation-help" alt=""/>
+      <caption webpage="tabletop-simulator-rules" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="gmod-rules" alt=""/>
+      <caption webpage="donation" alt=""/>
+      <caption webpage="under-renovation" alt=""/>
+      <caption webpage="media-server-specs" alt=""/>
     </file>
     <file name="whitebackbutton.png" crc="4221700727" seo="true" ref="game-servers:media-server:installation-help:media-server-specs:game-server-specs:rules:tabletop-simulator-rules:gmod-rules">
       <caption webpage="rules" alt=""/>
@@ -222,8 +224,11 @@
     <file name="manwar_logo_hover.png" crc="4162176222" seo="true" ref="game-servers">
       <caption webpage="game-servers" alt=""/>
     </file>
+    <file name="paypal-donate-button-png-516-1.png" crc="38875536" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="463361317" seo="true" mt="1562620809333" redirect="true"/>
+  <file name="index.html" crc="3937709497" seo="true" mt="1613954456922" redirect="true"/>
   <file name="game-servers.html" crc="4267487851" seo="true" mt="1598058520431" redirect="true"/>
   <file name="media-server.html" crc="3783398878" seo="true" mt="1562620809333" redirect="true"/>
   <file name="reypack.html" crc="3885597575" seo="true" mt="1560792866305" redirect="true"/>
@@ -234,4 +239,5 @@
   <file name="tabletop-simulator-rules.html" crc="4144944954" seo="true" mt="1562620809333" redirect="true"/>
   <file name="gmod-rules.html" crc="30981864" seo="true" mt="1562620809333" redirect="true"/>
   <file name="under-renovation.html" crc="3955648332" seo="true" mt="1563333796501" redirect="true"/>
+  <file name="donation.html" crc="4294668912" seo="true" mt="1613954271383" redirect="true"/>
 </manifest>
